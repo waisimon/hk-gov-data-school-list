@@ -1,0 +1,7109 @@
+{
+  "district": {
+    "english": "WONG TAI SIN",
+    "chinese": "黃大仙區"
+  },
+  "schoolType": {
+    "english": "AIDED SECONDARY SCHOOLS",
+    "chinese": "資助中學"
+  },
+  "date": "28/02/2025",
+  "page": "1",
+  "schools": [
+    {
+      "number": "1",
+      "uniqueId": "BUDDHIST_1",
+      "name": {
+        "english": "BUDDHIST HUNG SEAN CHAU MEMORIAL COLLEGE",
+        "chinese": "佛教孔仙洲紀念中學"
+      },
+      "address": {
+        "english": "10 PING TING ROAD,",
+        "chinese": "九龍斧山平定道１０號"
+      },
+      "schoolId": "214973 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23226915",
+        "fax": "23513614"
+      },
+      "management": {
+        "supervisor": {
+          "english": "VEN SIK HIN HUNG",
+          "chinese": "釋衍空法師"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.bhscmc.edu.hk"
+    },
+    {
+      "number": "2",
+      "uniqueId": "BUDDHIST_2",
+      "name": {
+        "english": "CCC HEEP WOH COLLEGE",
+        "chinese": "中華基督教會協和書院"
+      },
+      "address": {
+        "english": "171 PO KONG VILLAGE ROAD",
+        "chinese": "九龍慈雲山蒲崗村道１７１號"
+      },
+      "schoolId": "170470 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23234265",
+        "fax": "23233258"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.ccchwc.edu.hk"
+    },
+    {
+      "number": "3",
+      "uniqueId": "BUDDHIST_3",
+      "name": {
+        "english": "CCC KEI HEEP SECONDARY SCHOOL",
+        "chinese": "中華基督教會基協中學"
+      },
+      "address": {
+        "english": "161 TUNG TAU TSUEN ROAD",
+        "chinese": "九龍黃大仙東頭村道１６１號"
+      },
+      "schoolId": "510831 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23204557",
+        "fax": "23251715"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MR LAW YUE ON",
+          "chinese": "羅裕安先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.keiheep.edu.hk/"
+    },
+    {
+      "number": "4",
+      "uniqueId": "BUDDHIST_4",
+      "name": {
+        "english": "CCC ROTARY SECONDARY SCHOOL",
+        "chinese": "中華基督教會扶輪中學"
+      },
+      "address": {
+        "english": "157 LUNG CHEUNG ROAD",
+        "chinese": "九龍黃大仙龍翔道１５７號"
+      },
+      "schoolId": "511650 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23381971",
+        "fax": "23383748"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR YUNG CHUEN HUNG",
+          "chinese": "翁傳鏗先生"
+        },
+        "head": {
+          "english": "MR SIT CHEUNG WAH",
+          "chinese": "薛昌華先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www2.rotary.edu.hk/"
+    },
+    {
+      "number": "5",
+      "uniqueId": "BUDDHIST_5",
+      "name": {
+        "english": "CHI LIN BUDDHIST SECONDARY SCHOOL",
+        "chinese": "佛教志蓮中學"
+      },
+      "address": {
+        "english": "9 CHI LIN DRIVE",
+        "chinese": "九龍鑽石山志蓮道九號"
+      },
+      "schoolId": "527467 / 0002",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23218511",
+        "fax": "23212776"
+      },
+      "management": {
+        "supervisor": {
+          "english": "PENDING",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.clbss.edu.hk"
+    },
+    {
+      "number": "6",
+      "uniqueId": "BUDDHIST_6",
+      "name": {
+        "english": "CHOI HUNG ESTATE CATHOLIC SEC SCH",
+        "chinese": "彩虹邨天主教英文中學"
+      },
+      "address": {
+        "english": "CHOI HUNG ESTATE 1 TSE WAI AVENUE",
+        "chinese": "九龍黃大仙紫葳路１號彩虹邨"
+      },
+      "schoolId": "170046 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23203594",
+        "fax": "23256405"
+      },
+      "management": {
+        "supervisor": {
+          "english": "REV DHOS JOHNSON",
+          "chinese": "張明德神父"
+        },
+        "head": {
+          "english": "MS HO KA YAN",
+          "chinese": "何家欣女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "BOYS",
+      "website": "http://www.choihung.edu.hk"
+    },
+    {
+      "number": "7",
+      "uniqueId": "BUDDHIST_7",
+      "name": {
+        "english": "HO LAP COLL (SPSD BY THE SIK SIK YUEN)",
+        "chinese": "可立中學（嗇色園主辦）"
+      },
+      "address": {
+        "english": "15 TSEUK LUK STREET",
+        "chinese": "九龍爵祿街１５號"
+      },
+      "schoolId": "170364 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23222220",
+        "fax": "23202414"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.holap.edu.hk"
+    },
+    {
+      "number": "8",
+      "uniqueId": "BUDDHIST_8",
+      "name": {
+        "english": "KIT SAM LAM BING YIM SECONDARY SCHOOL",
+        "chinese": "潔心林炳炎中學"
+      },
+      "address": {
+        "english": "9 FU MEI STREET",
+        "chinese": "九龍橫頭磡富美街９號"
+      },
+      "schoolId": "170534 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23379594",
+        "fax": "23363549"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "DR LAU YIU HUNG",
+          "chinese": "劉瑤紅博士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "GIRLS",
+      "website": "http://www.kitsam.edu.hk/"
+    },
+    {
+      "number": "9",
+      "uniqueId": "BUDDHIST_9",
+      "name": {
+        "english": "LEE KAU YAN MEMORIAL SCHOOL",
+        "chinese": "李求恩紀念中學"
+      },
+      "address": {
+        "english": "NKIL 4644 SAN PO KONG KOWLOON",
+        "chinese": "九龍新蒲崗九龍內地段４６４４號"
+      },
+      "schoolId": "170143 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23834814",
+        "fax": "27185334"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR CHOW SIU NGOR",
+          "chinese": "鄒小岳先生"
+        },
+        "head": {
+          "english": "MS LAM SIU KUEN",
+          "chinese": "林少娟女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.lkyms.edu.hk"
+    },
+    {
+      "number": "10",
+      "uniqueId": "BUDDHIST_10",
+      "name": {
+        "english": "LOK SIN TONG WONG CHUNG MING SEC SCH",
+        "chinese": "樂善堂王仲銘中學"
+      },
+      "address": {
+        "english": "161 LOK SIN ROAD",
+        "chinese": "九龍樂善道１６１號"
+      },
+      "schoolId": "512710 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23820002",
+        "fax": "27184649"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.lstwcm.edu.hk"
+    },
+    {
+      "number": "11",
+      "uniqueId": "BUDDHIST_11",
+      "name": {
+        "english": "LOK SIN TONG YU KAN HING SEC SCHOOL",
+        "chinese": "樂善堂余近卿中學"
+      },
+      "address": {
+        "english": "3 FU YUE STREET",
+        "chinese": "九龍橫頭磡富裕街３號"
+      },
+      "schoolId": "170453 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23362657",
+        "fax": "23385504"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.ykh.edu.hk"
+    },
+    {
+      "number": "12",
+      "uniqueId": "BUDDHIST_12",
+      "name": {
+        "english": "NG WAH CATHOLIC SECONDARY SCHOOL",
+        "chinese": "天主教伍華中學"
+      },
+      "address": {
+        "english": "5 CHOI HUNG ROAD",
+        "chinese": "九龍彩虹道５號"
+      },
+      "schoolId": "170135 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23838077",
+        "fax": "27182543"
+      },
+      "management": {
+        "supervisor": {
+          "english": "REV CHAN TAK HUNG PHILIP",
+          "chinese": "陳德雄神父"
+        },
+        "head": {
+          "english": "MS LI YUEN YEE",
+          "chinese": "李宛儀女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "BOYS",
+      "website": "http://www.ngwahsec.edu.hk"
+    },
+    {
+      "number": "13",
+      "uniqueId": "BUDDHIST_13",
+      "name": {
+        "english": "OUR LADY'S COLLEGE",
+        "chinese": "聖母書院"
+      },
+      "address": {
+        "english": "3 LUNG FUNG ST",
+        "chinese": "九龍黃大仙龍鳳街３號"
+      },
+      "schoolId": "131709 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23275860",
+        "fax": "27527645"
+      },
+      "management": {
+        "supervisor": {
+          "english": "SR TSO ENID",
+          "chinese": "曹幸然修女"
+        },
+        "head": {
+          "english": "SR LIM LAI LING AMY",
+          "chinese": "林麗玲修女"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "GIRLS",
+      "website": "http://www.olc.edu.hk"
+    },
+    {
+      "number": "14",
+      "uniqueId": "BUDDHIST_14",
+      "name": {
+        "english": "PHC WING KWONG COLLEGE",
+        "chinese": "五旬節聖潔會永光書院"
+      },
+      "address": {
+        "english": "155 LUNG CHEUNG ROAD",
+        "chinese": "九龍橫頭磡龍翔道１５５號"
+      },
+      "schoolId": "213292 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23370137",
+        "fax": "23363142"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MR KWOK MAN KWAN",
+          "chinese": "郭文坤先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.wingkwong.edu.hk"
+    },
+    {
+      "number": "15",
+      "uniqueId": "BUDDHIST_15",
+      "name": {
+        "english": "PLK CELINE HO YAM TONG COLLEGE",
+        "chinese": "保良局何蔭棠中學"
+      },
+      "address": {
+        "english": "NO 176 PO KONG VILLAGE ROAD",
+        "chinese": "九龍黃大仙蒲崗村道１７６號"
+      },
+      "schoolId": "541850 / 0002",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "26269930",
+        "fax": "26269339"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MR LO KWOK LEUNG",
+          "chinese": "勞國樑先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.plkchc.edu.hk"
+    },
+    {
+      "number": "16",
+      "uniqueId": "BUDDHIST_16",
+      "name": {
+        "english": "PLK NO.1 WH CHEUNG COLLEGE",
+        "chinese": "保良局第一張永慶中學"
+      },
+      "address": {
+        "english": "173 PO KONG VILLAGE ROAD",
+        "chinese": "九龍慈雲山蒲崗村道１７３號"
+      },
+      "schoolId": "170461 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23212167",
+        "fax": "23284301"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR KWOK HO CHUEN",
+          "chinese": "郭浩泉先生"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "https://www.plkno1.edu.hk/"
+    },
+    {
+      "number": "17",
+      "uniqueId": "BUDDHIST_17",
+      "name": {
+        "english": "SALVATION ARMY  WILLIAM BOOTH SEC SCH",
+        "chinese": "救世軍卜維廉中學"
+      },
+      "address": {
+        "english": "100 YUK WAH STREET",
+        "chinese": "九龍慈雲山毓華街１００號"
+      },
+      "schoolId": "170585 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23269068",
+        "fax": "23280052"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MR HUNG CHOR YING EDMOND",
+          "chinese": "洪楚英先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.wbss.edu.hk"
+    },
+    {
+      "number": "18",
+      "uniqueId": "BUDDHIST_18",
+      "name": {
+        "english": "SHENG KUNG HUI ST BENEDICT'S SCHOOL",
+        "chinese": "聖公會聖本德中學"
+      },
+      "address": {
+        "english": "CHOI HUNG ESTATE 11 LAM CHUNG AVENUE",
+        "chinese": "九龍黃大仙藍鐘道１１號彩虹邨"
+      },
+      "schoolId": "513997 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23200011",
+        "fax": "23501094"
+      },
+      "management": {
+        "supervisor": {
+          "english": "REV LAU WING KAI",
+          "chinese": "劉榮佳牧師"
+        },
+        "head": {
+          "english": "MR CHENG MING KEUNG",
+          "chinese": "鄭銘強先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.skhsbs.edu.hk"
+    },
+    {
+      "number": "19",
+      "uniqueId": "BUDDHIST_19",
+      "name": {
+        "english": "ST BONAVENTURE COLLEGE & HIGH SCHOOL",
+        "chinese": "聖文德書院"
+      },
+      "address": {
+        "english": "47 SHEUNG FUNG STREET",
+        "chinese": "九龍慈雲山雙鳳街４７號"
+      },
+      "schoolId": "170402 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23238217",
+        "fax": "23228786"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MR LAW WAI NAM",
+          "chinese": "羅偉南先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.sbc.edu.hk"
+    },
+    {
+      "number": "20",
+      "uniqueId": "BUDDHIST_20",
+      "name": {
+        "english": "STEWARDS POOI TUN SECONDARY SCHOOL",
+        "chinese": "香港神託會培敦中學"
+      },
+      "address": {
+        "english": "162 HAMMER HILL ROAD",
+        "chinese": "九龍黃大仙斧山道１６２號"
+      },
+      "schoolId": "320609 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23265211",
+        "fax": "23201344"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MS PANG CHAU SHEUNG ROSA",
+          "chinese": "彭秋嫦女士"
+        },
+        "head": {
+          "english": "MS LAM PUI YEE",
+          "chinese": "林佩儀女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.pooitun.edu.hk"
+    },
+    {
+      "number": "21",
+      "uniqueId": "BUDDHIST_21",
+      "name": {
+        "english": "TAK OI SECONDARY SCHOOL",
+        "chinese": "德愛中學"
+      },
+      "address": {
+        "english": "8 TSZ WAN SHAN ROAD",
+        "chinese": "九龍慈雲山道８號"
+      },
+      "schoolId": "170496 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23238504",
+        "fax": "27261153"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "GIRLS",
+      "website": "https://www.takoi.edu.hk/"
+    },
+    {
+      "number": "1",
+      "uniqueId": "GOOD_1",
+      "name": {
+        "english": "GOOD HOPE SCHOOL",
+        "chinese": "德望學校"
+      },
+      "address": {
+        "english": "303 CLEAR WATER BAY ROAD",
+        "chinese": "九龍清水灣道３０３號"
+      },
+      "schoolId": "132837 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23210250",
+        "fax": "23248242"
+      },
+      "management": {
+        "supervisor": {
+          "english": "SR YUEN PAULINE",
+          "chinese": "阮嫣玲修女"
+        },
+        "head": {
+          "english": "DR HARFITT GARY JAMES",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "GIRLS",
+      "website": "http://www.ghs.edu.hk"
+    },
+    {
+      "number": "1",
+      "uniqueId": "INTL_1",
+      "name": {
+        "english": "INTL CHR QUALITY MUSIC SEC & PRI SCHOOL",
+        "chinese": "國際基督教優質音樂中學暨小學"
+      },
+      "address": {
+        "english": "182 PO KONG VILLAGE ROAD, DIAMOND HILL",
+        "chinese": "九龍鑽石山蒲崗村道１８２號"
+      },
+      "schoolId": "553867 / 0003",
+      "schoolTypeCode": "#",
+      "contact": {
+        "telephone": "27773828",
+        "fax": "27773899"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR LEUNG YIU KUEN",
+          "chinese": "梁耀權先生"
+        },
+        "head": {
+          "english": "MR CHAN WING SANG",
+          "chinese": "陳永生先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.icqm.edu.hk/"
+    },
+    {
+      "number": "1",
+      "uniqueId": "WONG_1",
+      "name": {
+        "english": "WONG TAI SIN GOVERNMENT PRIMARY SCH",
+        "chinese": "黃大仙官立小學"
+      },
+      "address": {
+        "english": "100 CHING TAK STREET",
+        "chinese": "九龍黃大仙正德街１００號"
+      },
+      "schoolId": "510718 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23202437",
+        "fax": "23202440"
+      },
+      "management": {
+        "chairman": {
+          "english": "MS LEE WAI PING",
+          "chinese": "李惠萍女士"
+        },
+        "head": {
+          "english": "MS KWAN YUK FUN",
+          "chinese": "關玉芬女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.wtsgps.edu.hk/"
+    },
+    {
+      "number": "1",
+      "uniqueId": "BAPTIST_1",
+      "name": {
+        "english": "BAPTIST RAINBOW PRIMARY SCHOOL",
+        "chinese": "浸信會天虹小學"
+      },
+      "address": {
+        "english": "CHUK YUEN SOUTH ESTATE",
+        "chinese": "九龍黃大仙竹園南邨"
+      },
+      "schoolId": "511161 / 0002",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR TSANG KA SHEK",
+          "chinese": "曾家石先生"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "2",
+      "uniqueId": "BAPTIST_2",
+      "name": {
+        "english": "BAPTIST RAINBOW PRIMARY SCHOOL",
+        "chinese": "浸信會天虹小學"
+      },
+      "address": {
+        "english": "CHUK YUEN SOUTH ESTATE",
+        "chinese": "九龍黃大仙竹園南邨"
+      },
+      "schoolId": "511161 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23287971",
+        "fax": "23227419"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR TSANG KA SHEK",
+          "chinese": "曾家石先生"
+        },
+        "head": {
+          "english": "MR FUNG YIU CHEUNG FIELIE",
+          "chinese": "馮耀章先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.rainbow.edu.hk"
+    },
+    {
+      "number": "3",
+      "uniqueId": "BAPTIST_3",
+      "name": {
+        "english": "BISHOP FORD MEMORIAL SCHOOL",
+        "chinese": "福德學校"
+      },
+      "address": {
+        "english": "20 PUI MAN STREET",
+        "chinese": "九龍東頭邨培民街２０號"
+      },
+      "schoolId": "511196 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23360206",
+        "fax": "23368325"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR POON SHU CHIU EDWARD",
+          "chinese": "潘樹照先生"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.bfordms.edu.hk"
+    },
+    {
+      "number": "4",
+      "uniqueId": "BAPTIST_4",
+      "name": {
+        "english": "BISHOP WALSH PRIMARY SCHOOL",
+        "chinese": "華德學校"
+      },
+      "address": {
+        "english": "150 JUNCTION ROAD",
+        "chinese": "九龍黃大仙聯合道１５０號"
+      },
+      "schoolId": "510017 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23367804",
+        "fax": "23361664"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR LI QUING FAI",
+          "chinese": "李烱輝先生"
+        },
+        "head": {
+          "english": "MISS LO SHUK YEE JENNY",
+          "chinese": "盧淑儀小姐"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.bishopwalsh.edu.hk"
+    },
+    {
+      "number": "5",
+      "uniqueId": "BAPTIST_5",
+      "name": {
+        "english": "CANOSSA PRIMARY SCHOOL",
+        "chinese": "嘉諾撒小學"
+      },
+      "address": {
+        "english": "5 CHUN YAN STREET",
+        "chinese": "九龍黃大仙親仁街５號"
+      },
+      "schoolId": "511340 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23222445",
+        "fax": "23203044"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MS YUEN WAI CHING",
+          "chinese": "袁慧貞女士"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.cpswts.edu.hk"
+    },
+    {
+      "number": "6",
+      "uniqueId": "BAPTIST_6",
+      "name": {
+        "english": "CANOSSA PRIMARY SCHOOL (SAN PO KONG)",
+        "chinese": "嘉諾撒小學（新蒲崗）"
+      },
+      "address": {
+        "english": "9 CHOI YEE LANE",
+        "chinese": "九龍新蒲崗彩頤里９號"
+      },
+      "schoolId": "550418 / 0002",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23238883",
+        "fax": "23236665"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MS YUEN WAI CHING",
+          "chinese": "袁慧貞女士"
+        },
+        "head": {
+          "english": "MR CHAN CHEONG SHUN CHARLEY",
+          "chinese": "陳昌信先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.cps.edu.hk"
+    },
+    {
+      "number": "7",
+      "uniqueId": "BAPTIST_7",
+      "name": {
+        "english": "CCC KEI TSZ PRIMARY SCHOOL",
+        "chinese": "中華基督教會基慈小學"
+      },
+      "address": {
+        "english": "152 TSZ WAN SHAN ROAD",
+        "chinese": "九龍慈雲山道１５２號"
+      },
+      "schoolId": "512370 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23225122",
+        "fax": "23286489"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MS CHIU KIT WA",
+          "chinese": "趙潔華女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.keitsz.edu.hk"
+    },
+    {
+      "number": "8",
+      "uniqueId": "BAPTIST_8",
+      "name": {
+        "english": "CCC KEI WA PRIMARY SCHOOL",
+        "chinese": "中華基督教會基華小學"
+      },
+      "address": {
+        "english": "CHOI HUNG ESTATE 3 WONG KUK AVENUE",
+        "chinese": "九龍黃大仙黃菊路３號彩虹邨"
+      },
+      "schoolId": "512389 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23200683",
+        "fax": "23259035"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR KO KWOK HUNG",
+          "chinese": "高國雄先生"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.keiwa.edu.hk"
+    },
+    {
+      "number": "9",
+      "uniqueId": "BAPTIST_9",
+      "name": {
+        "english": "CHOI WAN ST JOSEPH'S PRIMARY SCHOOL",
+        "chinese": "彩雲聖若瑟小學"
+      },
+      "address": {
+        "english": "CHOI WAN ESTATE",
+        "chinese": "九龍黃大仙彩雲邨"
+      },
+      "schoolId": "511579 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "27557180",
+        "fax": "23050067"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR LEUNG CHEUNG CHOI",
+          "chinese": "梁長才先生"
+        },
+        "head": {
+          "english": "MR CHU KA LEUNG",
+          "chinese": "朱家樑先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.cwsj.edu.hk"
+    },
+    {
+      "number": "10",
+      "uniqueId": "BAPTIST_10",
+      "name": {
+        "english": "CHUN TOK SCHOOL",
+        "chinese": "真鐸學校"
+      },
+      "address": {
+        "english": "171 HAMMER HILL ROAD NKIL 3511",
+        "chinese": "九龍鑽石山斧山道１７１號"
+      },
+      "schoolId": "512125 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23265111",
+        "fax": "23517244"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR KWOK CHI KAY PETER",
+          "chinese": "郭始基先生"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.cts.edu.hk"
+    },
+    {
+      "number": "11",
+      "uniqueId": "BAPTIST_11",
+      "name": {
+        "english": "CONFUCIAN TAI SHING PRIMARY SCHOOL",
+        "chinese": "孔教學院大成小學"
+      },
+      "address": {
+        "english": "10 TAI SHING STREET",
+        "chinese": "九龍黃大仙大成街１０號"
+      },
+      "schoolId": "511676 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23203301",
+        "fax": "23202943"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR TONG WAI LUN WILLIAM",
+          "chinese": "湯偉倫先生"
+        },
+        "head": {
+          "english": "MS POON SUK HAN",
+          "chinese": "潘淑嫻女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.taishingprimary.edu.hk"
+    },
+    {
+      "number": "12",
+      "uniqueId": "BAPTIST_12",
+      "name": {
+        "english": "HO LAP PRI SCH(SPSD BY SIK SIK YUEN)",
+        "chinese": "嗇色園主辦可立小學"
+      },
+      "address": {
+        "english": "88 SHEUNG FUNG STREET",
+        "chinese": "九龍慈雲山雙鳯街８８號"
+      },
+      "schoolId": "518492 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23216003",
+        "fax": "23217710"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MR NG SHU TUNG",
+          "chinese": "吳樹東先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.holap-p.edu.hk"
+    },
+    {
+      "number": "13",
+      "uniqueId": "BAPTIST_13",
+      "name": {
+        "english": "ISLAMIC DHARWOOD PAU MEMORIAL PRI SCH",
+        "chinese": "伊斯蘭鮑伯濤紀念小學"
+      },
+      "address": {
+        "english": "TSZ LOK ESTATE, PHASE I",
+        "chinese": "九龍慈雲山慈樂邨第一期"
+      },
+      "schoolId": "518484 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23201300",
+        "fax": "23226566"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MS SALIM SEKENA",
+          "chinese": "石志端女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.idpmps.edu.hk/"
+    },
+    {
+      "number": "14",
+      "uniqueId": "BAPTIST_14",
+      "name": {
+        "english": "NG WAH CATHOLIC PRI SCH",
+        "chinese": "天主教伍華小學"
+      },
+      "address": {
+        "english": "5 CHOI HUNG ROAD",
+        "chinese": "九龍新蒲崗彩虹道５號"
+      },
+      "schoolId": "513059 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23838079",
+        "fax": "23827592"
+      },
+      "management": {
+        "supervisor": {
+          "english": "REV CHAN TAK HUNG PHILIP",
+          "chinese": "陳德雄神父"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.nwcps.edu.hk"
+    },
+    {
+      "number": "15",
+      "uniqueId": "BAPTIST_15",
+      "name": {
+        "english": "PLK GRANDMONT PRIMARY SCHOOL",
+        "chinese": "保良局錦泰小學"
+      },
+      "address": {
+        "english": "180 PO KONG VILLAGE ROAD",
+        "chinese": "九龍黃大仙蒲崗村道１８０號"
+      },
+      "schoolId": "543241 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23262886",
+        "fax": "23522353"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MRS LAU CHAN SIU PO ANGEL",
+          "chinese": "劉陳小寶女士"
+        },
+        "head": {
+          "english": "MS NG KA WAI",
+          "chinese": "吳嘉慧女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.grandmont.edu.hk/"
+    },
+    {
+      "number": "16",
+      "uniqueId": "BAPTIST_16",
+      "name": {
+        "english": "PLK MRS CHAN NAM CHONG MEMORIAL PRI SCH",
+        "chinese": "保良局陳南昌夫人小學"
+      },
+      "address": {
+        "english": "30 HONG KEUNG STREET",
+        "chinese": "九龍新蒲崗康強街３０號"
+      },
+      "schoolId": "510181 / 0002",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "27599365",
+        "fax": "27999830"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "https://www.plkcnc.edu.hk/index/index25.aspx?nnnid=1"
+    },
+    {
+      "number": "17",
+      "uniqueId": "BAPTIST_17",
+      "name": {
+        "english": "PO YAN OBLATE PRIMARY SCHOOL",
+        "chinese": "獻主會溥仁小學"
+      },
+      "address": {
+        "english": "15 LOK SIN ROAD",
+        "chinese": "九龍樂善道１５號"
+      },
+      "schoolId": "513253 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23823474",
+        "fax": "23834403"
+      },
+      "management": {
+        "supervisor": {
+          "english": "FR WILLIAM MENG",
+          "chinese": "鄧永林神父"
+        },
+        "head": {
+          "english": "MS YU SZE WAI",
+          "chinese": "余詩慧女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.poyan.edu.hk"
+    },
+    {
+      "number": "18",
+      "uniqueId": "BAPTIST_18",
+      "name": {
+        "english": "PRICE MEMORIAL CATHOLIC PRIMARY SCHOOL",
+        "chinese": "天主教博智小學"
+      },
+      "address": {
+        "english": "TIN MA COURT 53 CHUK YUEN ROAD",
+        "chinese": "九龍黃大仙竹園道５３號天馬苑"
+      },
+      "schoolId": "513334 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23288033",
+        "fax": "23202604"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR LI QUING FAI",
+          "chinese": "李烱輝先生"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.pmcps.edu.hk"
+    },
+    {
+      "number": "19",
+      "uniqueId": "BAPTIST_19",
+      "name": {
+        "english": "SKH KEI TAK PRIMARY SCHOOL",
+        "chinese": "聖公會基德小學"
+      },
+      "address": {
+        "english": "TAI SHING STREET",
+        "chinese": "九龍黃大仙大成街"
+      },
+      "schoolId": "513512 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23203077",
+        "fax": "23202449"
+      },
+      "management": {
+        "supervisor": {
+          "english": "REV LAU WING KAI",
+          "chinese": "劉榮佳牧師"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.skhkt.edu.hk"
+    },
+    {
+      "number": "20",
+      "uniqueId": "BAPTIST_20",
+      "name": {
+        "english": "ST BONAVENTURE CATHOLIC PRIMARY SCHOOL",
+        "chinese": "聖文德天主教小學"
+      },
+      "address": {
+        "english": "FUNG LAI ROAD FUNG TAK ESTATE",
+        "chinese": "九龍鑽石山鳳德邨鳳禮道"
+      },
+      "schoolId": "514004 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23202727",
+        "fax": "23201000"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MR LEE KWOK CHIU",
+          "chinese": "李國釗先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.sbcps.edu.hk"
+    },
+    {
+      "number": "21",
+      "uniqueId": "BAPTIST_21",
+      "name": {
+        "english": "ST PATRICK'S CATH PRI SCH (P K VILL RD)",
+        "chinese": "聖博德天主教小學（蒲崗村道）"
+      },
+      "address": {
+        "english": "178  PO KONG VILLAGE ROAD",
+        "chinese": "九龍黃大仙蒲崗村道１７８號"
+      },
+      "schoolId": "543250 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "22460783",
+        "fax": "22460780"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR NGAI TAK MAN ELTON",
+          "chinese": "倪德文先生"
+        },
+        "head": {
+          "english": "DR CHAN LAI CHU",
+          "chinese": "陳麗珠博士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.spcpspkv.edu.hk"
+    },
+    {
+      "number": "22",
+      "uniqueId": "BAPTIST_22",
+      "name": {
+        "english": "ST PATRICK'S SCHOOL",
+        "chinese": "聖博德學校"
+      },
+      "address": {
+        "english": "12 FU MEI STREET EAST",
+        "chinese": "九龍橫頭磡富美東街１２號"
+      },
+      "schoolId": "514160 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23370133",
+        "fax": "23379549"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "DR CHEUNG CHOK FONG",
+          "chinese": "張作芳博士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.sps.edu.hk"
+    },
+    {
+      "number": "23",
+      "uniqueId": "BAPTIST_23",
+      "name": {
+        "english": "TSZ WAN SHAN CATHOLIC PRIMARY SCHOOL",
+        "chinese": "慈雲山天主教小學"
+      },
+      "address": {
+        "english": "172 PO KONG VILLAGE ROAD",
+        "chinese": "九龍黃大仙蒲崗村道１７２號"
+      },
+      "schoolId": "543268 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23273332",
+        "fax": "23276662"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR NGAI TAK MAN ELTON",
+          "chinese": "倪德文先生"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.twscps.edu.hk"
+    },
+    {
+      "number": "24",
+      "uniqueId": "BAPTIST_24",
+      "name": {
+        "english": "TWS ST BONAVENTURE CATHOLIC PRIMARY SCH",
+        "chinese": "慈雲山聖文德天主教小學"
+      },
+      "address": {
+        "english": "TSZ CHING ESTATE",
+        "chinese": "九龍黃大仙慈正邨"
+      },
+      "schoolId": "535788 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23206226",
+        "fax": "23255707"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MS LEE YEE LING ELLEN",
+          "chinese": "李綺玲女士"
+        },
+        "head": {
+          "english": "MR LAM WAI CHOI",
+          "chinese": "林偉才先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.tsbcps.edu.hk"
+    },
+    {
+      "number": "25",
+      "uniqueId": "BAPTIST_25",
+      "name": {
+        "english": "WONG TAI SIN CATHOLIC PRIMARY SCHOOL",
+        "chinese": "黃大仙天主教小學"
+      },
+      "address": {
+        "english": "102 CHING TAK STREET",
+        "chinese": "九龍黃大仙正德街１０２號"
+      },
+      "schoolId": "514926 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23208367",
+        "fax": "23208620"
+      },
+      "management": {
+        "supervisor": {
+          "english": "REV CHAN TAK HUNG PHILIP",
+          "chinese": "陳德雄神父"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.e-wong.edu.hk"
+    },
+    {
+      "number": "1",
+      "uniqueId": "AOG_1",
+      "name": {
+        "english": "AOG ST. HILARY'S COLLEGE",
+        "chinese": "神召會德萃書院"
+      },
+      "address": {
+        "english": "2-6/F",
+        "chinese": "九龍慈雲山蒲崗村道９１號２－６樓"
+      },
+      "schoolId": "216224 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23380701",
+        "fax": "23446238"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MS TAM PO KING POHOLIE",
+          "chinese": "譚寶琼女士"
+        },
+        "head": {
+          "english": "MR CHU TSZ WING",
+          "chinese": "朱子穎先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.aogsthilarys.edu.hk/"
+    },
+    {
+      "number": "2",
+      "uniqueId": "AOG_2",
+      "name": {
+        "english": "GOOD HOPE PRI SCH CUM KG",
+        "chinese": "德望小學暨幼稚園"
+      },
+      "address": {
+        "english": "381-383   JAT'S INCLINE",
+        "chinese": "九龍扎山道３８１－３８３號"
+      },
+      "schoolId": "588130 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23275294",
+        "fax": "23296403"
+      },
+      "management": {
+        "supervisor": {
+          "english": "SR YUEN PAULINE",
+          "chinese": "阮嫣玲修女"
+        },
+        "head": {
+          "english": "SR YUEN PAULINE",
+          "chinese": "阮嫣玲修女"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "GIRLS",
+      "website": "http://www.ghs.edu.hk/pri"
+    },
+    {
+      "number": "3",
+      "uniqueId": "AOG_3",
+      "name": {
+        "english": "INTL CHR QUALITY MUSIC SEC & PRI SCHOOL",
+        "chinese": "國際基督教優質音樂中學暨小學"
+      },
+      "address": {
+        "english": "182 PO KONG VILLAGE ROAD, DIAMOND HILL",
+        "chinese": "九龍鑽石山蒲崗村道１８２號"
+      },
+      "schoolId": "553867 / 0003",
+      "schoolTypeCode": "#",
+      "contact": {
+        "telephone": "27773828",
+        "fax": "27773899"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR LEUNG YIU KUEN",
+          "chinese": "梁耀權先生"
+        },
+        "head": {
+          "english": "MR CHAN WING SANG",
+          "chinese": "陳永生先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.icqm.edu.hk"
+    },
+    {
+      "number": "4",
+      "uniqueId": "AOG_4",
+      "name": {
+        "english": "OUR LADY'S PRIMARY SCHOOL",
+        "chinese": "聖母小學"
+      },
+      "address": {
+        "english": "116 SHATIN PASS ROAD",
+        "chinese": "九龍黃大仙沙田㘭道１１６號"
+      },
+      "schoolId": "528617 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23230938",
+        "fax": "27528493"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MS NG MAN KIN REGINA",
+          "chinese": "吳文健女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "GIRLS",
+      "website": "http://www.olps.edu.hk"
+    },
+    {
+      "number": "1",
+      "uniqueId": "CARITAS_1",
+      "name": {
+        "english": "CARITAS PELLETIER SCHOOL",
+        "chinese": "明愛培立學校"
+      },
+      "address": {
+        "english": "N.K.I.L. 6010  CLEAR WATER BAY ROAD",
+        "chinese": "九龍清水灣道６０１０地段"
+      },
+      "schoolId": "260339 / 0001",
+      "schoolTypeCode": "SP",
+      "contact": {
+        "telephone": "23203884",
+        "fax": "23201454"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MS CHIM IN LENG",
+          "chinese": "詹燕玲女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "GIRLS",
+      "website": "http://www.pelletier.edu.hk"
+    },
+    {
+      "number": "2",
+      "uniqueId": "CARITAS_2",
+      "name": {
+        "english": "HK RED CROSS MARGARET TRENCH SCHOOL",
+        "chinese": "香港紅十字會瑪嘉烈戴麟趾學校"
+      },
+      "address": {
+        "english": "10 PING TING ROAD EAST, NGAU CHI WAN",
+        "chinese": "九龍黃大仙牛池灣平定道東１０號"
+      },
+      "schoolId": "250074 / 0002",
+      "schoolTypeCode": "SP",
+      "contact": {
+        "telephone": "28174832",
+        "fax": "28176538"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MR CHUIN CHI WAI",
+          "chinese": "秦志偉先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.mts.edu.hk"
+    },
+    {
+      "number": "3",
+      "uniqueId": "CARITAS_3",
+      "name": {
+        "english": "RHENISH CHURCH GRACE SCHOOL",
+        "chinese": "禮賢會恩慈學校"
+      },
+      "address": {
+        "english": "FUNG TAK ESTATE DIAMOND HILL",
+        "chinese": "九龍黃大仙鳳德邨鑽石山"
+      },
+      "schoolId": "250538 / 0001",
+      "schoolTypeCode": "SP",
+      "contact": {
+        "telephone": "23280362",
+        "fax": "23203425"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR POON WING TONG",
+          "chinese": "潘詠棠先生"
+        },
+        "head": {
+          "english": "MR TSE HING SANG",
+          "chinese": "謝慶生先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.rcgs.edu.hk"
+    },
+    {
+      "number": "1",
+      "uniqueId": "A-ONE_1",
+      "name": {
+        "english": "A-ONE KINDERGARTEN",
+        "chinese": "第一幼稚園"
+      },
+      "address": {
+        "english": "G/F",
+        "chinese": "九龍彩虹彩虹邨金漢樓地下"
+      },
+      "schoolId": "316504 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23204880",
+        "fax": "23204880"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR LAI YAM TING READY",
+          "chinese": "賴音廷先生"
+        },
+        "head": {
+          "english": "MS TSE YUK KWAN",
+          "chinese": "謝育君女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "https://a-onekg.edu.hk/"
+    },
+    {
+      "number": "2",
+      "uniqueId": "A-ONE_2",
+      "name": {
+        "english": "BUDDHIST FOO HONG KINDERGARTEN",
+        "chinese": "佛教傅康幼稚園"
+      },
+      "address": {
+        "english": "G/F",
+        "chinese": "九龍黃大仙黃大仙下邨龍逸樓地下"
+      },
+      "schoolId": "325678 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23261456",
+        "fax": "23203042"
+      },
+      "management": {
+        "supervisor": {
+          "english": "VEN SIK NG CONG",
+          "chinese": "釋悟藏女法師"
+        },
+        "head": {
+          "english": "MS MA SIU YIN",
+          "chinese": "馬小燕女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.bfhkwts.edu.hk"
+    },
+    {
+      "number": "3",
+      "uniqueId": "A-ONE_3",
+      "name": {
+        "english": "CHRISTIAN EVANGELICAL CENTRE LOK FU KG",
+        "chinese": "基督教佈道中心樂富幼稚園"
+      },
+      "address": {
+        "english": "G/F",
+        "chinese": "九龍聯合道１９８號樂富邨樂謙樓地下"
+      },
+      "schoolId": "323268 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23388236",
+        "fax": "23366002"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR CHAN PO SHING",
+          "chinese": "陳寶盛先生"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.lokfukg.edu.hk"
+    },
+    {
+      "number": "4",
+      "uniqueId": "A-ONE_4",
+      "name": {
+        "english": "DIAMOND HILL LING LIANG KINDERGARTEN",
+        "chinese": "鑽石山靈糧幼稚園"
+      },
+      "address": {
+        "english": "PODIUM LEVEL 2 GALAXIA 3 LUNG POON STREET",
+        "chinese": "九龍鑽石山龍蟠街３號星河明居平台２樓"
+      },
+      "schoolId": "530379 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "29559797",
+        "fax": "29559798"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR LAW PO MING FRANKIE",
+          "chinese": "羅保明先生"
+        },
+        "head": {
+          "english": "MS CHAN WING MAN",
+          "chinese": "陳穎雯女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.lingliang.org.hk"
+    },
+    {
+      "number": "5",
+      "uniqueId": "A-ONE_5",
+      "name": {
+        "english": "ECFB CREATIVITY KINDERGARTEN",
+        "chinese": "基督教中國佈道會恩恩創意幼稚園"
+      },
+      "address": {
+        "english": "TSZ HONG ESTATE",
+        "chinese": "九龍慈雲山慈康邨"
+      },
+      "schoolId": "549169 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "29975299",
+        "fax": "29975288"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR CHOI CHUN MING ANDREW",
+          "chinese": "蔡鎮明先生"
+        },
+        "head": {
+          "english": "MS CHIU CHING HAN",
+          "chinese": "趙靜嫻女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.ecfbck.edu.hk"
+    },
+    {
+      "number": "6",
+      "uniqueId": "A-ONE_6",
+      "name": {
+        "english": "GOOD HOPE PRI SCH CUM KG",
+        "chinese": "德望小學暨幼稚園"
+      },
+      "address": {
+        "english": "381-383   JAT'S INCLINE",
+        "chinese": "九龍扎山道３８１－３８３號"
+      },
+      "schoolId": "588130 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23202269",
+        "fax": "23201848"
+      },
+      "management": {
+        "supervisor": {
+          "english": "SR YUEN PAULINE",
+          "chinese": "阮嫣玲修女"
+        },
+        "head": {
+          "english": "SR YUEN PAULINE",
+          "chinese": "阮嫣玲修女"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "GIRLS",
+      "website": "http://www.ghs.edu.hk/kg/en/home/"
+    },
+    {
+      "number": "7",
+      "uniqueId": "A-ONE_7",
+      "name": {
+        "english": "HK AND MACAU LUTHERAN CH SHEK ON MEM KG",
+        "chinese": "港澳信義會錫安紀念幼稚園"
+      },
+      "address": {
+        "english": "2-3/F",
+        "chinese": "九龍黃大仙蒲崗村道１１號鍚安樓２－３樓"
+      },
+      "schoolId": "325090 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23283681",
+        "fax": "23235292"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR WONG WAI TAK",
+          "chinese": "黃偉德先生"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://hkmlcsok.edu.hk/"
+    },
+    {
+      "number": "8",
+      "uniqueId": "A-ONE_8",
+      "name": {
+        "english": "HO LAP KG (SPONSORED BY SIK SIK YUEN)",
+        "chinese": "嗇色園主辦可立幼稚園"
+      },
+      "address": {
+        "english": "WING B & C,G/F., LOK SHUN HOUSE TSZ LOK ESTATE TSZ WAN SHAN",
+        "chinese": "九龍黃大仙慈雲山慈樂邨樂信樓地下Ｂ及Ｃ翼"
+      },
+      "schoolId": "523429 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23248201",
+        "fax": "23284693"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR MAN WHI CHUNG",
+          "chinese": "文偉昌先生"
+        },
+        "head": {
+          "english": "MS TSANG PUI FONG",
+          "chinese": "曾佩芳女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.siksikyuen.org.hk"
+    },
+    {
+      "number": "9",
+      "uniqueId": "A-ONE_9",
+      "name": {
+        "english": "HONG KONG KINDERGARTEN ASSN PRE-SCHOOL",
+        "chinese": "香港幼稚園協會幼兒學校"
+      },
+      "address": {
+        "english": "G/F, CHI SIU HOUSE CHOI WAN ESTATE",
+        "chinese": "九龍彩雲邨紫霄樓地下"
+      },
+      "schoolId": "550035 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "27582008",
+        "fax": "27580078"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MS LAN SUET MUI",
+          "chinese": "林雪梅女士"
+        },
+        "head": {
+          "english": "MS LAM SHUI KI",
+          "chinese": "林瑞祈女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.hkkaps.edu.hk"
+    },
+    {
+      "number": "10",
+      "uniqueId": "A-ONE_10",
+      "name": {
+        "english": "JONATHAN INNOVATIVE ENGLISH KINDERGARTEN",
+        "chinese": "永樂創新英文幼稚園"
+      },
+      "address": {
+        "english": "SHOP OT/KG01 LUNG POON COURT COMMERCIAL CENTRE",
+        "chinese": "九龍鑽石山龍蟠苑商場第ＯＴ／ＫＧ０１號舖"
+      },
+      "schoolId": "595144 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "27996300",
+        "fax": "27996322"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MS TANG YIM SHEUNG ALICE",
+          "chinese": "鄧艷嫦女士"
+        },
+        "head": {
+          "english": "MS CHAN HO YAN",
+          "chinese": "陳可茵女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.joninnoschool.hk"
+    },
+    {
+      "number": "11",
+      "uniqueId": "A-ONE_11",
+      "name": {
+        "english": "KAM LAM CATHOLIC KINDERGARTEN",
+        "chinese": "天主教甘霖幼稚園"
+      },
+      "address": {
+        "english": "G/F",
+        "chinese": "九龍黃大仙彩雲邨甘霖樓地下"
+      },
+      "schoolId": "324833 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "27567181",
+        "fax": "27545235"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.kamlamkg.edu.hk"
+    },
+    {
+      "number": "12",
+      "uniqueId": "A-ONE_12",
+      "name": {
+        "english": "LOK FU RHENISH CHURCH KINDERGARTEN",
+        "chinese": "樂富禮賢會幼稚園"
+      },
+      "address": {
+        "english": "RM 1-9 G/F",
+        "chinese": "九龍橫頭磡邨宏偉樓地下１－９室"
+      },
+      "schoolId": "325929 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23364705",
+        "fax": "23369278"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR YUEN TIM CHUNG",
+          "chinese": "袁添松先生"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://lfkg.rhenish.org"
+    },
+    {
+      "number": "13",
+      "uniqueId": "A-ONE_13",
+      "name": {
+        "english": "LOK SIN TONG KU LEE KWOK SIN KG",
+        "chinese": "樂善堂顧李覺鮮幼稚園"
+      },
+      "address": {
+        "english": "G/F",
+        "chinese": "九龍黃大仙竹園南邨雅園樓地下"
+      },
+      "schoolId": "325317 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23289875",
+        "fax": "23270480"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.loksintongkg.edu.hk/lst_kuleekwoksin/"
+    },
+    {
+      "number": "14",
+      "uniqueId": "A-ONE_14",
+      "name": {
+        "english": "OUR LADY'S KINDERGARTEN",
+        "chinese": "聖母幼稚園"
+      },
+      "address": {
+        "english": "WHOLE OF G/F-4/F. & CONFERENCE RM AT 5/F ANNEX BUILDING, 113-115 SHATIN PASS ROAD & 113 SHATIN PASS ROAD",
+        "chinese": "九龍黃大仙沙田㘭道１１３號及１１３－１１５號新翼大樓地下至四樓全層及五樓會議室"
+      },
+      "schoolId": "528625 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23207544",
+        "fax": "23207663"
+      },
+      "management": {
+        "supervisor": {
+          "english": "SR TSE KAM FONG",
+          "chinese": "謝錦芳修女"
+        },
+        "head": {
+          "english": "SR WU MIU YIN CAROLINA",
+          "chinese": "胡妙然修女"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.olk.edu.hk"
+    },
+    {
+      "number": "15",
+      "uniqueId": "A-ONE_15",
+      "name": {
+        "english": "PLK KAM HING KINDERGARTEN",
+        "chinese": "保良局金卿幼稚園"
+      },
+      "address": {
+        "english": "G/F",
+        "chinese": "九龍黃大仙鳳德邨鳳鑽苑地下"
+      },
+      "schoolId": "325821 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23220133",
+        "fax": "27526655"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MS FONG SAU CHING",
+          "chinese": "方秀貞女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "https://www.plkkgs.edu.hk/plkkhkg/hk"
+    },
+    {
+      "number": "16",
+      "uniqueId": "A-ONE_16",
+      "name": {
+        "english": "REDEMPTION LUTHERAN KINDERGARTEN",
+        "chinese": "路德會救恩幼稚園"
+      },
+      "address": {
+        "english": "G-1/F",
+        "chinese": "九龍黃大仙睦鄰街１３號Ｇ－２樓"
+      },
+      "schoolId": "321192 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23261546",
+        "fax": "23212664"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MS NG PUI SHAN",
+          "chinese": "吳佩珊女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.rlk.edu.hk"
+    },
+    {
+      "number": "17",
+      "uniqueId": "A-ONE_17",
+      "name": {
+        "english": "SHUN SANG ANGLO-CHINESE KINDERGARTEN",
+        "chinese": "信生中英文幼稚園"
+      },
+      "address": {
+        "english": "G/F",
+        "chinese": ""
+      },
+      "schoolId": "216259 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23231074",
+        "fax": "23232621"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MS CHAU MAN YEE SYMANTHIA",
+          "chinese": "鄒敏兒女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.ssack.edu.hk"
+    },
+    {
+      "number": "18",
+      "uniqueId": "A-ONE_18",
+      "name": {
+        "english": "TSZ CHING ESTATE BODHI SIKSA KG",
+        "chinese": "慈正邨菩提幼稚園"
+      },
+      "address": {
+        "english": "G/F, CHING MING HOUSE TSZ CHING ESTATE",
+        "chinese": "九龍慈雲山慈正邨正明樓地下"
+      },
+      "schoolId": "542601 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "22745761",
+        "fax": "22745780"
+      },
+      "management": {
+        "supervisor": {
+          "english": "VEN LAU CHUN FUI",
+          "chinese": "劉振奎法師"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.tcebsk.edu.hk"
+    },
+    {
+      "number": "19",
+      "uniqueId": "A-ONE_19",
+      "name": {
+        "english": "TWGHS WAI CHEUNG CHI MEMORIAL KG",
+        "chinese": "東華三院韋祥智紀念幼稚園"
+      },
+      "address": {
+        "english": "ROOM KG01, G/F. KAI TAO HOUSE KAI CHUEN COURT",
+        "chinese": "九龍啟鑽苑啟濤閣地下ＫＧ０１室"
+      },
+      "schoolId": "325414 / 0002",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "https://wcc-kindergarten.edu.hk/?lang=en"
+    },
+    {
+      "number": "1",
+      "uniqueId": "BGCAHK_1",
+      "name": {
+        "english": "BGCAHK CHEERLAND KG (WONG TAI SIN)",
+        "chinese": "香港小童群益會樂緻幼稚園（黃大仙）"
+      },
+      "address": {
+        "english": "G/F, TAT SIN HOUSE UPPER WONG TAI SIN ESTATE",
+        "chinese": "九龍黃大仙上邨達善樓地下"
+      },
+      "schoolId": "563463 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "22164216",
+        "fax": "22164811"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MS WONG MEI LING",
+          "chinese": "王美玲女士"
+        },
+        "head": {
+          "english": "MS MAN YIN SHAN",
+          "chinese": "文燕珊女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://nursery.bgca.org.hk"
+    },
+    {
+      "number": "2",
+      "uniqueId": "BGCAHK_2",
+      "name": {
+        "english": "C & MA FU SHAN NURSERY SCH",
+        "chinese": "基督教宣道會富山幼兒學校"
+      },
+      "address": {
+        "english": "NO 1-6, LOWER GROUND 1, FU SHUN HOUSE FU SHAN ESTATE PO KONG VILLAGE ROAD",
+        "chinese": "九龍蒲崗村道富山邨富信樓地庫１層１－６號"
+      },
+      "schoolId": "565873 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23512833",
+        "fax": "23205201"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR CHAN YU KOW",
+          "chinese": "陳茹九先生"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.fushan.cmasshk.org"
+    },
+    {
+      "number": "3",
+      "uniqueId": "BGCAHK_3",
+      "name": {
+        "english": "CARITAS KAI YAU NURSERY SCHOOL",
+        "chinese": "明愛啓幼幼兒學校"
+      },
+      "address": {
+        "english": "G/F",
+        "chinese": "九龍東頭邨富東樓地下１－８號"
+      },
+      "schoolId": "566020 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23822660",
+        "fax": "23827590"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MADAM LEUNG CHI KIN GLORIA",
+          "chinese": "梁志堅女士"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "https://kyns.caritas.org.hk/index.aspx"
+    },
+    {
+      "number": "4",
+      "uniqueId": "BGCAHK_4",
+      "name": {
+        "english": "FIVE DIS  B W  ASSN CHEUNG CHUK SHAN KG",
+        "chinese": "五邑工商總會張祝珊幼稚園"
+      },
+      "address": {
+        "english": "ROOM 109, LEVEL 5, COMMERCIAL COMPLEX LUNG POON COURT",
+        "chinese": "九龍鑽石山龍蟠苑商場第５層１０９室"
+      },
+      "schoolId": "564303 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23273317",
+        "fax": "23513152"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR YAN MAN FAI",
+          "chinese": "甄文輝先生"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.ccsn.edu.hk"
+    },
+    {
+      "number": "5",
+      "uniqueId": "BGCAHK_5",
+      "name": {
+        "english": "FIVE DISTRICTS BUSINESS WELFARE ASSN KG",
+        "chinese": "五邑工商總會幼稚園"
+      },
+      "address": {
+        "english": "G/F, WANG CHAK HOUSE WANG TAU HOM ESTATE",
+        "chinese": "九龍橫頭磡邨宏澤樓地下"
+      },
+      "schoolId": "564290 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23374341",
+        "fax": "27941759"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR YAN MAN FAI",
+          "chinese": "甄文輝先生"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.fdkg.edu.hk"
+    },
+    {
+      "number": "6",
+      "uniqueId": "BGCAHK_6",
+      "name": {
+        "english": "GRACE METHODIST CHURCH KINDERGARTEN",
+        "chinese": "循道衛理聯合教會主恩堂幼稚園"
+      },
+      "address": {
+        "english": "2/F",
+        "chinese": "九龍馬仔坑天宏苑停車場大廈"
+      },
+      "schoolId": "325880 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23204188",
+        "fax": "23204308"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MS CHEUNG WING YI JENNIFER",
+          "chinese": "張詠儀女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.grace.edu.hk"
+    },
+    {
+      "number": "7",
+      "uniqueId": "BGCAHK_7",
+      "name": {
+        "english": "GRACEFIELD EAST KOWLOON CHRISTIAN KG",
+        "chinese": "基督教恩苗東九龍幼稚園"
+      },
+      "address": {
+        "english": "G/F",
+        "chinese": "九龍黃大仙上邨倡善樓地下"
+      },
+      "schoolId": "538132 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "22164106",
+        "fax": "22164107"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR CHAN HOI KIT FREDERICK",
+          "chinese": "陳凱傑先生"
+        },
+        "head": {
+          "english": "MS LAM MAN CHI",
+          "chinese": "林敏姿女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "https://gracefield.edu.hk/"
+    },
+    {
+      "number": "8",
+      "uniqueId": "BGCAHK_8",
+      "name": {
+        "english": "HKTA YUEN YUEN KG (TUNG TAU ESTATE)",
+        "chinese": "香港道教聯合會圓玄幼稚園（東頭邨）"
+      },
+      "address": {
+        "english": "G/F",
+        "chinese": "九龍東頭邨欣東樓９－１４號地下"
+      },
+      "schoolId": "325716 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "27183637",
+        "fax": "23837607"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR TANG KAM HUNG",
+          "chinese": "鄧錦雄先生"
+        },
+        "head": {
+          "english": "MS SHUM SHUK PING",
+          "chinese": "岑淑萍女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.yuenyuenkg.edu.hk"
+    },
+    {
+      "number": "9",
+      "uniqueId": "BGCAHK_9",
+      "name": {
+        "english": "HKYWCA CHOI WAN NURSERY SCHOOL",
+        "chinese": "香港基督教女青年會彩雲幼兒學校"
+      },
+      "address": {
+        "english": "NO.109-114, G/F, NGAN HO HOUSE CHOI WAN ESTATE",
+        "chinese": "九龍彩雲邨銀河樓地下１０９－１１４號"
+      },
+      "schoolId": "564451 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "27551546",
+        "fax": "27590078"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MS TSE SHUK IN",
+          "chinese": "謝淑賢女士"
+        },
+        "head": {
+          "english": "MR LAM SZE LONG",
+          "chinese": "林斯朗先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://nscw.ywca.org.hk"
+    },
+    {
+      "number": "10",
+      "uniqueId": "BGCAHK_10",
+      "name": {
+        "english": "HKYWCA FAITH HOPE NURSERY SCHOOL",
+        "chinese": "香港基督教女青年會信望幼兒學校"
+      },
+      "address": {
+        "english": "G/F, LUNG HONG HOUSE LOWER WONG TAI SIN ESTATE",
+        "chinese": "九龍黃大仙下邨龍康樓地下"
+      },
+      "schoolId": "565504 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23225308",
+        "fax": "23286199"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MS TSE SHUK IN",
+          "chinese": "謝淑賢女士"
+        },
+        "head": {
+          "english": "MS CHEUNG ON YU",
+          "chinese": "張安愉女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://nsfh.ywca.org.hk"
+    },
+    {
+      "number": "11",
+      "uniqueId": "BGCAHK_11",
+      "name": {
+        "english": "HO TAK KG (SPONSORED BY SIK SIK YUEN)",
+        "chinese": "嗇色園主辦可德幼稚園"
+      },
+      "address": {
+        "english": "G/F BLK 8",
+        "chinese": "九龍竹園北邨第５期松園樓第８座地下"
+      },
+      "schoolId": "325643 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23500721",
+        "fax": "23227478"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MS HO MEI YU",
+          "chinese": "何美如女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.siksikyuen.org.hk"
+    },
+    {
+      "number": "12",
+      "uniqueId": "BGCAHK_12",
+      "name": {
+        "english": "HONG KONG BETHEL CHURCH GIDEON KG",
+        "chinese": "香港伯特利教會基甸幼稚園"
+      },
+      "address": {
+        "english": "G/F",
+        "chinese": "九龍樂富邨樂東樓"
+      },
+      "schoolId": "325686 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23362577",
+        "fax": "23362567"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MISS LEE SHUN WAH",
+          "chinese": "李舜華小姐"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.bcgideon.edu.hk"
+    },
+    {
+      "number": "13",
+      "uniqueId": "BGCAHK_13",
+      "name": {
+        "english": "LOK FU RHENISH NURSERY",
+        "chinese": "禮賢會樂富幼兒園"
+      },
+      "address": {
+        "english": "G/F",
+        "chinese": "香港橫頭磡邨宏祖樓地下"
+      },
+      "schoolId": "564397 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23380538",
+        "fax": "27943506"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR YUEN TIM CHUNG",
+          "chinese": "袁添松先生"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://lfkg.ppe.rhenish.org"
+    },
+    {
+      "number": "14",
+      "uniqueId": "BGCAHK_14",
+      "name": {
+        "english": "NEW KLN WOMEN ASSN TSZ WAN SHAN NURSERY",
+        "chinese": "新九龍婦女會慈雲山幼兒園"
+      },
+      "address": {
+        "english": "G/F",
+        "chinese": "九龍慈雲山慈正邨正旭樓地下"
+      },
+      "schoolId": "563617 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23200444",
+        "fax": "22676905"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MS LAM YUET MING",
+          "chinese": "林月明女士"
+        },
+        "head": {
+          "english": "MS LAU WAI PING",
+          "chinese": "劉慧冰女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.newklnwa.edu.hk"
+    },
+    {
+      "number": "15",
+      "uniqueId": "BGCAHK_15",
+      "name": {
+        "english": "PLK FONG TAM YUEN LEUNG TSZ WAN SHAN KG",
+        "chinese": "保良局方譚遠良（慈雲山）幼稚園"
+      },
+      "address": {
+        "english": "UNIT 1-2 & 5-12, MAN TAI HOUSE TSZ MAN ESTATE",
+        "chinese": "九龍慈雲山慈民邨民泰樓地下１－２及５－１２號"
+      },
+      "schoolId": "563943 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23277561",
+        "fax": "23506896"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MS YICK OI LING",
+          "chinese": "易愛玲女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.poleungkuk.org.hk"
+    },
+    {
+      "number": "16",
+      "uniqueId": "BGCAHK_16",
+      "name": {
+        "english": "PLK TSE WONG PUI KUEN KINDERGARTEN",
+        "chinese": "保良局謝黃沛涓幼稚園"
+      },
+      "address": {
+        "english": "G/F, LOK ON HOUSE TSZ LOK ESTATE",
+        "chinese": "九龍慈雲山慈樂邨樂安樓地下"
+      },
+      "schoolId": "563919 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23522843",
+        "fax": "23524084"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MS CHENG MEI CHU",
+          "chinese": "鄭美珠女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.poleungkuk.org.hk"
+    },
+    {
+      "number": "17",
+      "uniqueId": "BGCAHK_17",
+      "name": {
+        "english": "PO LEUNG KUK WONG SIU CHING KINDERGARTEN",
+        "chinese": "保良局王少清幼稚園"
+      },
+      "address": {
+        "english": "5/F, CHOI WAN ESTATE COMMUNITY CENTRE CHOI WAN ESTATE",
+        "chinese": "九龍黃大仙彩雲邨社區中心６字樓"
+      },
+      "schoolId": "563811 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "27553438",
+        "fax": "27070292"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MS CHAK PUI SHAN",
+          "chinese": "翟佩珊女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.poleungkuk.org.hk"
+    },
+    {
+      "number": "18",
+      "uniqueId": "BGCAHK_18",
+      "name": {
+        "english": "SAN PO KONG RHENISH NURSERY",
+        "chinese": "禮賢會新蒲崗幼兒園"
+      },
+      "address": {
+        "english": "G/F",
+        "chinese": "九龍新蒲崗崇齡街３３號新蒲崗廣場地下Ａ２３－Ａ２６　Ａ３６－４２　Ａ４８－５２Ａ５３Ａ－Ａ５６"
+      },
+      "schoolId": "564400 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23261336",
+        "fax": "23223387"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR YUEN TIM CHUNG",
+          "chinese": "袁添松先生"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://spk.wd.rhenish.org"
+    },
+    {
+      "number": "19",
+      "uniqueId": "BGCAHK_19",
+      "name": {
+        "english": "SHARON LUTHERAN CHURCH KG (TSZ OI BR)",
+        "chinese": "路德會沙崙堂幼稚園（慈愛分校）"
+      },
+      "address": {
+        "english": "ROOFTOP OF CARPORT BUILDING TSZ OI COURT TSZ WAN SHAN",
+        "chinese": "九龍黃大仙慈雲山慈愛苑停車場頂層"
+      },
+      "schoolId": "523933 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23260280",
+        "fax": "23270630"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.sharonlutheran.edu.hk"
+    },
+    {
+      "number": "20",
+      "uniqueId": "BGCAHK_20",
+      "name": {
+        "english": "SIS. IMMACULATE HEART OF MARY WTS KG",
+        "chinese": "聖母潔心會黃大仙幼稚園"
+      },
+      "address": {
+        "english": "4/F",
+        "chinese": "九龍黃大仙正德街１０４號黃大仙社區中心５樓"
+      },
+      "schoolId": "564370 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23211574",
+        "fax": "27265750"
+      },
+      "management": {
+        "supervisor": {
+          "english": "SR POON SAU KING AGATHA",
+          "chinese": "潘秀琼修女"
+        },
+        "head": {
+          "english": "MS POON SAU KING AGATHA",
+          "chinese": "潘秀琼女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://wts.sihm.org.hk"
+    },
+    {
+      "number": "21",
+      "uniqueId": "BGCAHK_21",
+      "name": {
+        "english": "SKH KINDLY LIGHT CHURCH OR PUI CHEUNG KG",
+        "chinese": "聖公會慈光堂柯佩璋幼稚園"
+      },
+      "address": {
+        "english": "NOS 101-108 & 117-124, G/F,TUNG YUEN HSE CHUK YUEN NORTH ESTATE",
+        "chinese": "九龍黃大仙竹園北邨桐園樓地下"
+      },
+      "schoolId": "325546 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23254254",
+        "fax": "23241730"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MS LEUNG YUK WA",
+          "chinese": "梁玉華女士"
+        },
+        "head": {
+          "english": "MISS CHAN MAN LEE",
+          "chinese": "陳敏莉小姐"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.skhklcopc.edu.hk"
+    },
+    {
+      "number": "22",
+      "uniqueId": "BGCAHK_22",
+      "name": {
+        "english": "TSUNG TSIN MISSION OF HK ON KEUNG N SCH",
+        "chinese": "基督教香港崇真會安強幼兒學校"
+      },
+      "address": {
+        "english": "5/F",
+        "chinese": "九龍鑽石山鳳德邨鳳德社區中心"
+      },
+      "schoolId": "564060 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23210580",
+        "fax": "23522199"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MS CHAN SHUK PING",
+          "chinese": "陳淑萍女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.ttmssd.org/ok"
+    },
+    {
+      "number": "23",
+      "uniqueId": "BGCAHK_23",
+      "name": {
+        "english": "TWGHS FONG SHIU YEE NURSERY SCH",
+        "chinese": "東華三院方肇彝幼兒園"
+      },
+      "address": {
+        "english": "RM F12 1/F",
+        "chinese": "九龍黃大仙龍翔道天馬苑商場Ｆ１２室"
+      },
+      "schoolId": "563552 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23200336",
+        "fax": "23229802"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MRS MAN MEI CHING ALMOND",
+          "chinese": "萬美貞女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.tungwahcsd.org"
+    },
+    {
+      "number": "24",
+      "uniqueId": "BGCAHK_24",
+      "name": {
+        "english": "TWGHS KWAN FONG NURSERY SCHOOL",
+        "chinese": "東華三院群芳幼兒園"
+      },
+      "address": {
+        "english": "G/F",
+        "chinese": "九龍黃大仙竹園南邨富園樓１２０－１２９號地下"
+      },
+      "schoolId": "564176 / 0001",
+      "schoolTypeCode": "",
+      "contact": {
+        "telephone": "23516718",
+        "fax": "23226164"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MS LEUNG SHUK YEE",
+          "chinese": "梁淑懿女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.tungwahcsd.org"
+    },
+    {
+      "number": "1",
+      "uniqueId": "ACCOUNTABLE_1",
+      "name": {
+        "english": "ACCOUNTABLE EDUCATION CTR (TSZ WAN SHAN)",
+        "chinese": "明誠教育中心（慈雲山）"
+      },
+      "address": {
+        "english": "SHOP 638, 6/F TSZ WAN SHAN SHOPPING CENTRE TSZ LOK ESTATE, 10 WAN WAH STREET",
+        "chinese": "九龍慈雲山雲華街１０號慈樂邨慈雲山中心６樓６３８號舖"
+      },
+      "schoolId": "593206 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23212111",
+        "fax": "NA"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MS WONG YUK CHING KAREN",
+          "chinese": "黃玉貞女士"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "2",
+      "uniqueId": "ACCOUNTABLE_2",
+      "name": {
+        "english": "ACE OF ACES EDUCATION CENTRE",
+        "chinese": "一級教育中心"
+      },
+      "address": {
+        "english": "SHOP 7F, UG/F. WAH LAI HOUSE 20 YUK WAH CRESCENT",
+        "chinese": "九龍慈雲山毓華里２０號華麗樓高層地下７Ｆ號舖"
+      },
+      "schoolId": "614009 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "3",
+      "uniqueId": "ACCOUNTABLE_3",
+      "name": {
+        "english": "AMBER EDUCATION CENTRE",
+        "chinese": "康澄教育中心"
+      },
+      "address": {
+        "english": "SHOP 4   G/F   CHEE LOK BUILDING 133 PO KONG VILLAGE ROAD",
+        "chinese": "九龍慈雲山蒲崗村道１３３號慈樂大厦地下４號舖"
+      },
+      "schoolId": "590070 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23203228",
+        "fax": "23203228"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "4",
+      "uniqueId": "ACCOUNTABLE_4",
+      "name": {
+        "english": "AMUZING GRACE EDUCATION CENTRE",
+        "chinese": "奇恩教育中心"
+      },
+      "address": {
+        "english": "UNIT 601-602, 6/F. WIN PLAZA 9 SHEUNG HEI STREET",
+        "chinese": "九龍新蒲崗雙喜街９號匯達商業中心６樓６０１—６０２室"
+      },
+      "schoolId": "617415 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "5",
+      "uniqueId": "ACCOUNTABLE_5",
+      "name": {
+        "english": "ARTS TUTORIAL CENTRE",
+        "chinese": "雅詩補習中心"
+      },
+      "address": {
+        "english": "SHOP NO S006, G/F CHUK YUEN PLAZA 15 CHUK YUEN ROAD",
+        "chinese": "九龍黃大仙竹園道１５號竹園廣場地下Ｓ００６號舖"
+      },
+      "schoolId": "583197 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "27262723",
+        "fax": "23276582"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR CHUNG LEUNG",
+          "chinese": "鍾良先生"
+        },
+        "head": {
+          "english": "MS FUNG WAI FUN",
+          "chinese": "馮惠芬女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "6",
+      "uniqueId": "ACCOUNTABLE_6",
+      "name": {
+        "english": "ASHLEY EDUCATION CENTRE",
+        "chinese": "雅研教育中心"
+      },
+      "address": {
+        "english": "FLAT B03 B03A, 1/F SAN PO KONG PLAZA, 33 SHUNG LING STREET",
+        "chinese": "九龍新蒲崗崇齡街３３號新蒲崗廣場１樓Ｂ０３及Ｂ０３Ａ號舖"
+      },
+      "schoolId": "574694 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "7",
+      "uniqueId": "ACCOUNTABLE_7",
+      "name": {
+        "english": "BABINGTON EDUCATION CENTRE (WONG TAI SIN",
+        "chinese": "柏明頓教育中心（黃大仙）"
+      },
+      "address": {
+        "english": "SHOP 209-210, 2/F. LIONS RISE MALL 8 MUK LUN STREET",
+        "chinese": "九龍黃大仙睦鄰街８號現崇山商場２樓２０９—２１０號舖"
+      },
+      "schoolId": "615528 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "8",
+      "uniqueId": "ACCOUNTABLE_8",
+      "name": {
+        "english": "BEE MATH LEARNING CENTRE",
+        "chinese": "數學小蜜蜂教室"
+      },
+      "address": {
+        "english": "SHOP C42, 2/F. SAN PO KONG PLAZA 33 SHUNG LING STREET",
+        "chinese": "九龍新蒲崗崇齡街３３號新蒲崗廣場２樓Ｃ４２號舖"
+      },
+      "schoolId": "621293 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "9",
+      "uniqueId": "ACCOUNTABLE_9",
+      "name": {
+        "english": "BLOOM SCIENCE EDUCATION CENTER",
+        "chinese": ""
+      },
+      "address": {
+        "english": "SHOPS G105 & G106 G/F., PLAZA HOLLYWOOD 3 LUNG POON STREET",
+        "chinese": "九龍黃大仙鑽石山龍蟠街３號荷里活廣場地下Ｇ１０５及Ｇ１０６號舖"
+      },
+      "schoolId": "624560 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "10",
+      "uniqueId": "ACCOUNTABLE_10",
+      "name": {
+        "english": "BONAVENTURE LEARNING SCHOOL",
+        "chinese": "文德補習學校"
+      },
+      "address": {
+        "english": "2/F",
+        "chinese": "九龍黃大仙蒲崗村道８９號"
+      },
+      "schoolId": "520292 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23295513",
+        "fax": "23297763"
+      },
+      "management": {
+        "supervisor": {
+          "english": "FR CHAN MOON HUNG STEPHEN",
+          "chinese": "陳滿鴻神父"
+        },
+        "head": {
+          "english": "MS CHAN KING HEUNG",
+          "chinese": "陳香女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "11",
+      "uniqueId": "ACCOUNTABLE_11",
+      "name": {
+        "english": "BRIGHT ENGLISH EDU CTR (WONG TAI SIN)",
+        "chinese": "明師教育中心（黃大仙）"
+      },
+      "address": {
+        "english": "SHOP 118, LEVEL 1 LIONS RISE MALL 8 MUK LUN STREET",
+        "chinese": "九龍黃大仙睦鄰街８號現崇山商場１樓１１８號舖"
+      },
+      "schoolId": "609676 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "12",
+      "uniqueId": "ACCOUNTABLE_12",
+      "name": {
+        "english": "CHI LIN EVENING COLLEGE",
+        "chinese": "志蓮夜書院"
+      },
+      "address": {
+        "english": "4/F 33 DIAMOND HILL ROAD DIAMOND HILL",
+        "chinese": "九龍黃大仙鑽石山鑽石山道３３號"
+      },
+      "schoolId": "323691 / 0002",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23541731",
+        "fax": "23541739"
+      },
+      "management": {
+        "supervisor": {
+          "english": "VEN SHI WEI ZHONG",
+          "chinese": "釋惟中女法師"
+        },
+        "head": {
+          "english": "MR LEONG SWEE MIN",
+          "chinese": "梁瑞明先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "13",
+      "uniqueId": "ACCOUNTABLE_13",
+      "name": {
+        "english": "CHOI WAN CLASSROOM LEARNING CENTER",
+        "chinese": "彩雲教室學習中心"
+      },
+      "address": {
+        "english": "SHOP B116, G/F FEI FUNG HOUSE, CHOI WAN (I) ESTATE 45 CLEAR WATER BAY ROAD",
+        "chinese": "九龍牛池灣清水灣道４５號彩雲（一）邨飛鳳樓地下Ｂ１１６號舖"
+      },
+      "schoolId": "600580 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "MISS LEE CHEUK WING",
+          "chinese": "李卓穎小姐"
+        },
+        "head": {
+          "english": "MR CHU HON LUN",
+          "chinese": "朱漢倫先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "14",
+      "uniqueId": "ACCOUNTABLE_14",
+      "name": {
+        "english": "CLEVER WAY TUT CTR (WANG TAU HOM)",
+        "chinese": "加慧補習中心（橫頭磡）"
+      },
+      "address": {
+        "english": "UNIT 4 & 11, LEVEL 3 WANG FAI CENTRE WANG TAU HOM ESTATE",
+        "chinese": "九龍黃大仙橫頭磡邨３樓４及１１號宏暉中心"
+      },
+      "schoolId": "548146 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23375057",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "15",
+      "uniqueId": "ACCOUNTABLE_15",
+      "name": {
+        "english": "COASE ADVANCED TUTORIAL SCHOOL",
+        "chinese": "高思補習學校"
+      },
+      "address": {
+        "english": "1/F, BAILY COURT 33 PO KONG VILLAGE ROAD",
+        "chinese": "九龍黃大仙蒲崗村道３３號百利軒１樓"
+      },
+      "schoolId": "554537 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23218230",
+        "fax": "31884016"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "16",
+      "uniqueId": "ACCOUNTABLE_16",
+      "name": {
+        "english": "CONGRATS LEARNING CENTRE",
+        "chinese": "康傑斯學習中心"
+      },
+      "address": {
+        "english": "UNITS C27 & C57A, 2/F. SAN PO KONG PLAZA 33 SHUNG LING STREET",
+        "chinese": "九龍新蒲崗崇齡街３３號新蒲崗廣場２樓Ｃ２７及Ｃ５７Ａ號舖"
+      },
+      "schoolId": "611883 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "17",
+      "uniqueId": "ACCOUNTABLE_17",
+      "name": {
+        "english": "DANIEL'S EDUCATION CENTRE",
+        "chinese": "菁藍教育中心"
+      },
+      "address": {
+        "english": "SHOP C75-C76, 2/F SAN PO KONG PLAZA 33 SHUNG LING STREET",
+        "chinese": "九龍新蒲崗崇齡街３３號新蒲崗廣場２樓Ｃ７５－Ｃ７６號舖"
+      },
+      "schoolId": "583910 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23318301",
+        "fax": "23318301"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR LEE KUEN TAT DANIEL",
+          "chinese": "李權達先生"
+        },
+        "head": {
+          "english": "MR LEE KUEN TAT DANIEL",
+          "chinese": "李權達先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "18",
+      "uniqueId": "ACCOUNTABLE_18",
+      "name": {
+        "english": "DR I-KIDS EDUCATION CENTRE(WONG TAI SIN)",
+        "chinese": "智趣小博士教育中心（黃大仙）"
+      },
+      "address": {
+        "english": "SHOP 101, 1/F. LIONS RISE MALL 8 MUK LUN STREET",
+        "chinese": "九龍黃大仙睦鄰街８號現崇山商場１樓１０１號舖"
+      },
+      "schoolId": "595268 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "21776968",
+        "fax": "21776610"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "19",
+      "uniqueId": "ACCOUNTABLE_19",
+      "name": {
+        "english": "E.NOPI GENIUS KIDZ EDUCATION CENTER",
+        "chinese": ""
+      },
+      "address": {
+        "english": "SHOP 11, PODIUM LEVEL 1 SHOPPING CENTRE, KINGSFORD TERRACE 8 KING TUNG STREET",
+        "chinese": "九龍瓊東街８號嘉峰臺商場ＰＬ１樓１１號舖"
+      },
+      "schoolId": "585971 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "26868239",
+        "fax": "---"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "20",
+      "uniqueId": "ACCOUNTABLE_20",
+      "name": {
+        "english": "EASING TUTORIAL CENTRE",
+        "chinese": "逸思補習中心"
+      },
+      "address": {
+        "english": "SHOP NO 6, L/G,  CHE CHEUNG BUILDING 135 PO KONG VILLAGE ROAD",
+        "chinese": "九龍慈雲山蒲崗村道１３５號慈祥大厦低層６號舖"
+      },
+      "schoolId": "571288 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "93413311",
+        "fax": "23268193"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "21",
+      "uniqueId": "ACCOUNTABLE_21",
+      "name": {
+        "english": "EFFICIENCY EDUCATION CENTRE",
+        "chinese": "優雋教育中心"
+      },
+      "address": {
+        "english": "SHOP C07, 2/F. SAN PO KONG PLAZA 33 SHUNG LING STREET",
+        "chinese": "九龍新蒲崗崇齡街３３號新蒲崗廣場２樓Ｃ０７號舖"
+      },
+      "schoolId": "612014 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "22",
+      "uniqueId": "ACCOUNTABLE_22",
+      "name": {
+        "english": "ENLIGHTEN UP LEARNING CENTRE",
+        "chinese": "啓迪培研學習中心"
+      },
+      "address": {
+        "english": "SHOP 7E, UG/F. WAH LAI HOUSE 20 YUK WAH CRESCENT",
+        "chinese": "九龍慈雲山毓華里２０號華麗樓高層地下７Ｅ號舖"
+      },
+      "schoolId": "620505 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "23",
+      "uniqueId": "ACCOUNTABLE_23",
+      "name": {
+        "english": "ENRICH ENGLISH EDU CTR (WONG TAI SIN)",
+        "chinese": "趣味英語教育中心（黃大仙）"
+      },
+      "address": {
+        "english": "SHOP C1, G/F. EVERGREEN TOWER 28-46 FEI FUNG STREET",
+        "chinese": "九龍黃大仙飛鳳街２８－４６號長春大廈地下Ｃ１號舖"
+      },
+      "schoolId": "608505 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR LAU TIN MONG",
+          "chinese": "劉天望先生"
+        },
+        "head": {
+          "english": "MR LAU TIN MONG",
+          "chinese": "劉天望先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "24",
+      "uniqueId": "ACCOUNTABLE_24",
+      "name": {
+        "english": "EYE LEVEL LUMI EDUCATION CENTER",
+        "chinese": ""
+      },
+      "address": {
+        "english": "SHOP G116, G/F. PLAZA HOLLYWOOD, 3 LUNG POON STREET DIAMOND HILL, WONG TAI SIN",
+        "chinese": "九龍黃大仙鑽石山龍蟠街３號荷里活廣場地下Ｇ１１６號舖"
+      },
+      "schoolId": "620750 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "25",
+      "uniqueId": "ACCOUNTABLE_25",
+      "name": {
+        "english": "FAME EDUCATION CENTRE",
+        "chinese": "雋林教育中心"
+      },
+      "address": {
+        "english": "SHOP 2, L/G, WINFAIR BUILDING 3-11 PO WAI LANE, 4-12 PO MING LANE",
+        "chinese": "九龍慈雲山蒲蕙里３–１１號蒲明里４–１２號永發大廈低層地下２號舖"
+      },
+      "schoolId": "568830 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "93413311",
+        "fax": "23268193"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "26",
+      "uniqueId": "ACCOUNTABLE_26",
+      "name": {
+        "english": "FUNDAMENTALS EDUCATION CENTRE",
+        "chinese": "識之源教育中心"
+      },
+      "address": {
+        "english": "SHOP NO N230, 2/F. FUNG TAK SHOPPING CENTRE 111 FUNG TAK ROAD",
+        "chinese": "九龍鑽石山鳳德道１１１號鳳德商場２樓Ｎ２３０號舖"
+      },
+      "schoolId": "560693 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "92846088",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MS LAM MEI NGOR",
+          "chinese": "林美娥女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "27",
+      "uniqueId": "ACCOUNTABLE_27",
+      "name": {
+        "english": "GA EDUCATION CENTRE",
+        "chinese": "傑毅教室"
+      },
+      "address": {
+        "english": "FLAT E, 3/F MANNING THEATRE BUILDING 57 YUK WAH CRESENT",
+        "chinese": "九龍慈雲山毓華里５７號萬年戲院大廈Ｅ座３樓"
+      },
+      "schoolId": "603910 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "27262746",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": "http://www.gaeducation.edu.hk"
+    },
+    {
+      "number": "28",
+      "uniqueId": "ACCOUNTABLE_28",
+      "name": {
+        "english": "GIANT GRADE EDUCATION CTR",
+        "chinese": "小巨人教育中心"
+      },
+      "address": {
+        "english": "SHOP 11, G/F WONG TUNG HOUSE, TUNG TAU ESTATE 183 TUNG TAU TSUEN ROAD",
+        "chinese": "九龍黃大仙東頭村道１８３號東頭邨旺東樓地下１１號舖"
+      },
+      "schoolId": "596302 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "29",
+      "uniqueId": "ACCOUNTABLE_29",
+      "name": {
+        "english": "GRANDFIELD LIFE EDUCATION CENTRE",
+        "chinese": "雋學園生命教育中心"
+      },
+      "address": {
+        "english": "6/F. BOC TSZ WAN SHAN BUILDING 46 AND 48 YUK WAH STREET",
+        "chinese": "九龍慈雲山毓華街４６及４８號中銀慈雲山大樓６樓"
+      },
+      "schoolId": "613355 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "30",
+      "uniqueId": "ACCOUNTABLE_30",
+      "name": {
+        "english": "GREEN PLANT EDUCATION CENTRE",
+        "chinese": "綠苗社教育中心"
+      },
+      "address": {
+        "english": "SHOP B53A, 1/F. SAN PO KONG PLAZA 33 SHUNG LING STREET",
+        "chinese": "九龍新蒲崗崇齡街３３號新蒲崗廣場１樓Ｂ５３Ａ號舖"
+      },
+      "schoolId": "610798 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "31",
+      "uniqueId": "ACCOUNTABLE_31",
+      "name": {
+        "english": "HK INTERNATIONAL INSTITUTE OF MUSIC",
+        "chinese": "香港國際音樂學校"
+      },
+      "address": {
+        "english": "182 PO KONG VILLAGE ROAD DIAMOND HILL KOWLOON",
+        "chinese": "九龍鑽石山蒲崗村道新九龍地段１８２號（晚上六時後）"
+      },
+      "schoolId": "289868 / 0004",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "27773452",
+        "fax": "27884836"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MR CHAN WING SANG",
+          "chinese": "陳永生先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "32",
+      "uniqueId": "ACCOUNTABLE_32",
+      "name": {
+        "english": "HOI KAM TUTORIAL CENTRE (WONG TAI SIN)",
+        "chinese": "凱琴補習中心（黃大仙）"
+      },
+      "address": {
+        "english": "SHOP NO S201-S201A & S202  2/F CHUK YUEN PLAZA 15 CHUK YUEN ROAD",
+        "chinese": "九龍黃大仙竹園道１５號竹園廣場２樓Ｓ２０１－Ｓ２０１Ａ及Ｓ２０２號舖"
+      },
+      "schoolId": "583111 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23255601",
+        "fax": "23296531"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "33",
+      "uniqueId": "ACCOUNTABLE_33",
+      "name": {
+        "english": "HONG KONG INSTITUTE OF TECHNOLOGY",
+        "chinese": "香港科技專上書院"
+      },
+      "address": {
+        "english": "SHOPS 108 & 109, 1/F. LIONS RISE MALL 8 MUK LUN STREET",
+        "chinese": "九龍黃大仙睦鄰街８號現崇山商場１樓１０８及１０９號舖"
+      },
+      "schoolId": "525898 / 0019",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "MS SHI MEI CHUN",
+          "chinese": "時美真女士"
+        },
+        "head": {
+          "english": "PENDING",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "34",
+      "uniqueId": "ACCOUNTABLE_34",
+      "name": {
+        "english": "HONG KONG INSTITUTE OF TECHNOLOGY",
+        "chinese": "香港科技專上書院"
+      },
+      "address": {
+        "english": "SHOPS 108 & 109, 1/F. LIONS RISE MALL 8 MUK LUN STREET",
+        "chinese": "九龍黃大仙睦鄰街８號現崇山商場１樓１０８及１０９號舖"
+      },
+      "schoolId": "525898 / 0019",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "MS SHI MEI CHUN",
+          "chinese": "時美真女士"
+        },
+        "head": {
+          "english": "PENDING",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "35",
+      "uniqueId": "ACCOUNTABLE_35",
+      "name": {
+        "english": "HONG KONG INSTITUTE OF TECHNOLOGY",
+        "chinese": "香港科技專上書院"
+      },
+      "address": {
+        "english": "SHOPS 108 & 109, 1/F. LIONS RISE MALL 8 MUK LUN STREET",
+        "chinese": "九龍黃大仙睦鄰街８號現崇山商場１樓１０８及１０９號舖"
+      },
+      "schoolId": "525898 / 0019",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "MS SHI MEI CHUN",
+          "chinese": "時美真女士"
+        },
+        "head": {
+          "english": "PENDING",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "36",
+      "uniqueId": "ACCOUNTABLE_36",
+      "name": {
+        "english": "HYPER EDUCATION CENTRE",
+        "chinese": "越級教室"
+      },
+      "address": {
+        "english": "SHOP C01, 2/F SAN PO KONG PLAZA 33 SHUNG LING STREET",
+        "chinese": "九龍新蒲崗崇齡街３３號新蒲崗廣場２樓Ｃ０１室"
+      },
+      "schoolId": "600806 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "37",
+      "uniqueId": "ACCOUNTABLE_37",
+      "name": {
+        "english": "IN STAGE EDUCATION CENTER",
+        "chinese": "天藝教育中心"
+      },
+      "address": {
+        "english": "SHOP 752, G/F, RHYTHM GARDEN 242 CHOI HUNG ROAD",
+        "chinese": "九龍新蒲崗彩虹道２４２號采頤花園地下７５２號舖"
+      },
+      "schoolId": "597660 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "38",
+      "uniqueId": "ACCOUNTABLE_38",
+      "name": {
+        "english": "INTELLECTUAL CHEERING EDUCATION CENTRE",
+        "chinese": "雋賢卓穎教育中心"
+      },
+      "address": {
+        "english": "FLAT A, 3/F. MANNING THEATRE BUILDING 57 YUK WAH CRESCENT",
+        "chinese": "九龍慈雲山毓華里５７號萬年戲院大廈３樓Ａ室"
+      },
+      "schoolId": "614408 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "39",
+      "uniqueId": "ACCOUNTABLE_39",
+      "name": {
+        "english": "IRRADIATE EDUCATION CENTRE",
+        "chinese": "薈晉教育中心"
+      },
+      "address": {
+        "english": "SHOP 3-4, PODIUM LEVEL 1 KINGSFORD TERRACE 8 KING TUNG STREET",
+        "chinese": "九龍牛池灣瓊東街８號嘉峰臺商場平台１樓３－４號舖"
+      },
+      "schoolId": "595519 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "MS CHEUNG KA WUN CODY",
+          "chinese": "張家媛女士"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "40",
+      "uniqueId": "ACCOUNTABLE_40",
+      "name": {
+        "english": "JEI LEARNING CENTRE (NGAU CHI WAN)",
+        "chinese": ""
+      },
+      "address": {
+        "english": "SHOP 14 PODIUM LEVEL 1, SHOPPING CENTRE KINGSFORD TERRACE, 8 KING TUNG STREET",
+        "chinese": "九龍牛池灣瓊東街８號嘉峰臺商場平台１樓１４號舖"
+      },
+      "schoolId": "613550 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "41",
+      "uniqueId": "ACCOUNTABLE_41",
+      "name": {
+        "english": "JIAO YANG EDUCATION CENTER (CHUK YUEN)",
+        "chinese": "驕陽教育中心（竹園）"
+      },
+      "address": {
+        "english": "SHOP S213-S214 2/F, CHUK YUEN PLAZA 15 CHUK YUEN ROAD",
+        "chinese": "九龍黃大仙竹園道１５號竹園廣場２樓Ｓ２１３－Ｓ２１４號舖"
+      },
+      "schoolId": "601233 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MS CHAN SIU KING",
+          "chinese": "陳少琼女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "42",
+      "uniqueId": "ACCOUNTABLE_42",
+      "name": {
+        "english": "JOLLY KINGDOM ENG LRN CTR (TSZ WAN SHAN)",
+        "chinese": "啓言英語教育中心（慈雲山）"
+      },
+      "address": {
+        "english": "SHOPS 618 & 619, 6/F. TSZ WAN SHAN SHOPPING CENTRE TSZ LOK ESTATE, 23 YUK WAH STREET",
+        "chinese": "九龍慈雲山毓華街２３號慈樂邨慈雲山中心６樓６１８及６１９號舖"
+      },
+      "schoolId": "613320 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "43",
+      "uniqueId": "ACCOUNTABLE_43",
+      "name": {
+        "english": "JOLLY KINGDOM ENGLISH LEARNING CENTRE (W",
+        "chinese": "啓言英語教育中心（黃大仙）"
+      },
+      "address": {
+        "english": "SHOP 110, 1/F. LIONS RISE MALL 8 MUK LUN STREET",
+        "chinese": "香港黃大仙睦鄰街８號現崇山商場１樓１１０號舖"
+      },
+      "schoolId": "604224 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MS WU SAU YEE",
+          "chinese": "胡秀儀女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "44",
+      "uniqueId": "ACCOUNTABLE_44",
+      "name": {
+        "english": "JOYANCE EDUCATION CENTRE",
+        "chinese": "同樂教育中心"
+      },
+      "address": {
+        "english": "7/F., BOC TSZ WAN SHAN BUILDING 46-48 YUK WAH STREET",
+        "chinese": "九龍慈雲山毓華街４６—４８號中銀慈雲山大樓７樓"
+      },
+      "schoolId": "613398 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "45",
+      "uniqueId": "ACCOUNTABLE_45",
+      "name": {
+        "english": "KEY SENSE ENGLISH EDUCATION CENTRE",
+        "chinese": "啟知英文教育中心"
+      },
+      "address": {
+        "english": "SHOP S209, 2/F. CHUK YUEN PLAZA, CHUK YUEN SOUTH ESTATE 15 CHUK YUEN ROAD",
+        "chinese": "九龍黃大仙竹園道１５號竹園南邨竹園廣場２樓Ｓ２０９號舖"
+      },
+      "schoolId": "610151 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "46",
+      "uniqueId": "ACCOUNTABLE_46",
+      "name": {
+        "english": "KIDDO CORNER EDUCATION CENTRE",
+        "chinese": ""
+      },
+      "address": {
+        "english": "SHOP 119, 1/F. LIONS RISE MALL 8 MUK LUN STREET",
+        "chinese": "九龍黃大仙睦鄰街８號現崇山商場１樓１１９號舖"
+      },
+      "schoolId": "615544 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "47",
+      "uniqueId": "ACCOUNTABLE_47",
+      "name": {
+        "english": "KNOWLEDGE ORIGIN EDUCATION CENTRE",
+        "chinese": "明道園教育中心"
+      },
+      "address": {
+        "english": "UNIT B06, 1/F. SAN PO KONG PLAZA 33 SHUNG LING STREET",
+        "chinese": "九龍新蒲崗崇齡街３３號新蒲崗廣場１樓Ｂ０６號舖"
+      },
+      "schoolId": "599557 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23547395",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR CHAN HO KEI",
+          "chinese": "陳浩基先生"
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "48",
+      "uniqueId": "ACCOUNTABLE_48",
+      "name": {
+        "english": "KOEN'S LEARNING CENTRE",
+        "chinese": "科恩教學中心"
+      },
+      "address": {
+        "english": "SHOP NO.17B PODIUM LEVEL 1, SHOPPING CENTRE KINGSFORD TERRACE",
+        "chinese": "九龍瓊東街８號嘉峰臺商場平台１樓１７Ｂ號舖"
+      },
+      "schoolId": "582905 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "22427028",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "MISS CHAN WING KI KATY",
+          "chinese": "陳詠琪小姐"
+        },
+        "head": {
+          "english": "MR CHOI MAN WAI",
+          "chinese": "蔡文威先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "49",
+      "uniqueId": "ACCOUNTABLE_49",
+      "name": {
+        "english": "KUMON DIAMOND HILL (HOLLYWOOD) EDU CTR",
+        "chinese": "公文式鑽石山（荷里活）教育中心"
+      },
+      "address": {
+        "english": "SHOP G119, G/F. PLAZA HOLLYWOOD 3 LUNG POON STREET, DIAMOND HILL",
+        "chinese": "九龍黃大仙鑽石山龍蟠街３號荷里活廣場地下Ｇ１１９號舖"
+      },
+      "schoolId": "616320 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "50",
+      "uniqueId": "ACCOUNTABLE_50",
+      "name": {
+        "english": "KUMON HIU YAN EDUCATION CENTRE",
+        "chinese": "公文式曉欣教育中心"
+      },
+      "address": {
+        "english": "SHOP 22C, G/F. HONG KING BUILDING 86 TSEUK LUK STREET",
+        "chinese": "九龍新蒲崗爵䘵街８６號康景樓地下２２Ｃ號舖"
+      },
+      "schoolId": "551490 / 0002",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "51",
+      "uniqueId": "ACCOUNTABLE_51",
+      "name": {
+        "english": "KUMON HIU YAN EDUCATION CENTRE",
+        "chinese": "公文式曉欣教育中心"
+      },
+      "address": {
+        "english": "SHOP 22C, G/F. HONG KING BUILDING 86 TSEUK LUK STREET",
+        "chinese": "九龍新蒲崗爵䘵街８６號康景樓地下２２Ｃ號舖"
+      },
+      "schoolId": "551490 / 0002",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "52",
+      "uniqueId": "ACCOUNTABLE_52",
+      "name": {
+        "english": "KUMON HIU YAN EDUCATION CENTRE",
+        "chinese": "公文式曉欣教育中心"
+      },
+      "address": {
+        "english": "SHOP 22C, G/F. HONG KING BUILDING 86 TSEUK LUK STREET",
+        "chinese": "九龍新蒲崗爵䘵街８６號康景樓地下２２Ｃ號舖"
+      },
+      "schoolId": "551490 / 0002",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "53",
+      "uniqueId": "ACCOUNTABLE_53",
+      "name": {
+        "english": "KUMON HIU YAN EDUCATION CENTRE",
+        "chinese": "公文式曉欣教育中心"
+      },
+      "address": {
+        "english": "SHOP 22C, G/F. HONG KING BUILDING 86 TSEUK LUK STREET",
+        "chinese": "九龍新蒲崗爵䘵街８６號康景樓地下２２Ｃ號舖"
+      },
+      "schoolId": "551490 / 0002",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "54",
+      "uniqueId": "ACCOUNTABLE_54",
+      "name": {
+        "english": "KUMON LIVING PLUS EDU CTR (LOK FU)",
+        "chinese": "公文式匯樂教育中心（樂富）"
+      },
+      "address": {
+        "english": "STALL D016, G/F., MARKET PLACE COMMERCIAL CENTRE I (AREA 1) LOK FU ESTATE",
+        "chinese": "九龍聯合道１９８號樂富邨商業中心一座（一區）地下街巿Ｄ０１６號檔位"
+      },
+      "schoolId": "614513 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "55",
+      "uniqueId": "ACCOUNTABLE_55",
+      "name": {
+        "english": "KUMON SAN PO KONG EDUCATION CENTRE",
+        "chinese": "公文式新蒲崗教育中心"
+      },
+      "address": {
+        "english": "UNIT B01-B02   1/F   SAN PO KONG PLAZA 33 SHUNG LING STREET",
+        "chinese": "九龍新蒲崗崇齡街３３號新蒲崗廣場１樓Ｂ０１－Ｂ０２號舖"
+      },
+      "schoolId": "591556 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "26139728",
+        "fax": "28858320"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR CHEUNG PO LEUNG KENNETH",
+          "chinese": "張溥良先生"
+        },
+        "head": {
+          "english": "MR CHEUNG PO LEUNG KENNETH",
+          "chinese": "張溥良先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "56",
+      "uniqueId": "ACCOUNTABLE_56",
+      "name": {
+        "english": "KUMON TSZ WAN SHAN EDUCATION CENTRE",
+        "chinese": "公文式慈雲山教育中心"
+      },
+      "address": {
+        "english": "SHOP 8   G/F   CHING WO HOUSE TSZ CHING ESTATE 80 TSZ WAN SHAN ROAD",
+        "chinese": "九龍慈雲山道８０號慈正邨正和樓地下８號舖"
+      },
+      "schoolId": "594105 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "21162025",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "57",
+      "uniqueId": "ACCOUNTABLE_57",
+      "name": {
+        "english": "KUMON WONG TAI SIN EDUCATION CENTRE",
+        "chinese": "公文式黃大仙教育中心"
+      },
+      "address": {
+        "english": "UNIT S121B   2/F   SAU YUEN HOUSE CHUK YUEN SOUTH ESTATE 15 CHUK YUEN ROAD",
+        "chinese": "九龍黃大仙竹園道１５號竹園南邨秀園樓２樓Ｓ１２１Ｂ號舖"
+      },
+      "schoolId": "593109 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "69883322",
+        "fax": "NA"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "58",
+      "uniqueId": "ACCOUNTABLE_58",
+      "name": {
+        "english": "LEARNING COMMON EDUCATION CENTRE",
+        "chinese": "致通教育中心"
+      },
+      "address": {
+        "english": "5/F., BOC TSZ WAN SHAN BUILDING 46-48 YUK WAH STREET",
+        "chinese": "九龍慈雲山毓華街４６—４８號中銀慈雲山大樓５樓"
+      },
+      "schoolId": "615463 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "59",
+      "uniqueId": "ACCOUNTABLE_59",
+      "name": {
+        "english": "LIBERAL MASTER LEARNING EDUCATION CENTRE",
+        "chinese": "學師教育中心"
+      },
+      "address": {
+        "english": "SHOP 8, G/F. SILVER GARDEN 95 PO KONG VILLAGE ROAD",
+        "chinese": "九龍黃大仙蒲崗村道９５號秀芳花園地下８號舖"
+      },
+      "schoolId": "614785 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "60",
+      "uniqueId": "ACCOUNTABLE_60",
+      "name": {
+        "english": "LING KWONG SUPREME EDUCATION CENTRE",
+        "chinese": "靈光優質教育中心"
+      },
+      "address": {
+        "english": "SHOP NO.4, G/F. SILVER GARDEN 95 PO KONG VILLAGE ROAD",
+        "chinese": "九龍黃大仙蒲崗村道９５號秀芳花園地下４號舖"
+      },
+      "schoolId": "618047 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "61",
+      "uniqueId": "ACCOUNTABLE_61",
+      "name": {
+        "english": "LINKDREAMS EDUCATION CENTRE",
+        "chinese": "領航教育中心"
+      },
+      "address": {
+        "english": "SHOP A309, 3/F. CHOI WAN SHOPPING CENTRE (PHASE 2) CHOI WAN (I) ESTATE, 45 CLEAR WATER BAY",
+        "chinese": "九龍牛池灣清水灣道４５號彩雲（一）邨彩雲商場２期３樓Ａ３０９號舖"
+      },
+      "schoolId": "622044 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "62",
+      "uniqueId": "ACCOUNTABLE_62",
+      "name": {
+        "english": "LITTLE HANDS LEARNING CENTRE (TSZ WAN SH",
+        "chinese": ""
+      },
+      "address": {
+        "english": "SHOPS 643-645, 6/F. TSZ WAN SHAN SHOPPING CENTRE TSZ LOK ESTATE, 23 YUK WAH STREET",
+        "chinese": "九龍慈雲山毓華街２３號慈樂邨慈雲山中心６樓６４３—６４５號舖"
+      },
+      "schoolId": "625272 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "PENDING",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "63",
+      "uniqueId": "ACCOUNTABLE_63",
+      "name": {
+        "english": "LOGIC TUTORIAL CENTRE (DIAMOND HILL)",
+        "chinese": "勵致研習中心（鑽石山）"
+      },
+      "address": {
+        "english": "SHOP NO. B03, B1/F. KAI CHUEN SHOPPING CENTRE KAI CHUEN COURT (PHASE 2)",
+        "chinese": "九龍黃大仙鑽石山啟鑽苑（第二期）啟鑽商場地庫１樓Ｂ０３號舖"
+      },
+      "schoolId": "625710 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "PENDING",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "64",
+      "uniqueId": "ACCOUNTABLE_64",
+      "name": {
+        "english": "LOGIC TUTORIAL CENTRE (TSZ WAN SHAN)",
+        "chinese": "勵致研習中心（慈雲山）"
+      },
+      "address": {
+        "english": "SHOP 620, 6/F. TSZ WAN SHAN SHOPPING CENTRE",
+        "chinese": "九龍慈雲山慈雲山中心６樓６２０號舖"
+      },
+      "schoolId": "609501 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "65",
+      "uniqueId": "ACCOUNTABLE_65",
+      "name": {
+        "english": "LOVE LEARNING EDUCATION CENTRE",
+        "chinese": "愛學習教育中心"
+      },
+      "address": {
+        "english": "UNITS B65 & B77, 1/F SAN PO KONG PLAZA 33 SHUNG LING STREET",
+        "chinese": "九龍新蒲崗崇齡街３３號新蒲崗廣場１樓Ｂ６５及Ｂ７７號"
+      },
+      "schoolId": "594954 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "27858615",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "MS BAU KAM SHAN",
+          "chinese": "鮑錦珊女士"
+        },
+        "head": {
+          "english": "MR AU WAI KEUNG",
+          "chinese": "區偉強先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "66",
+      "uniqueId": "ACCOUNTABLE_66",
+      "name": {
+        "english": "LOVE LEARNING EDUCATION CENTRE",
+        "chinese": "愛學習教育中心"
+      },
+      "address": {
+        "english": "UNITS B65 & B77, 1/F SAN PO KONG PLAZA 33 SHUNG LING STREET",
+        "chinese": "九龍新蒲崗崇齡街３３號新蒲崗廣場１樓Ｂ６５及Ｂ７７號"
+      },
+      "schoolId": "594954 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "27858615",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "MS BAU KAM SHAN",
+          "chinese": "鮑錦珊女士"
+        },
+        "head": {
+          "english": "MR AU WAI KEUNG",
+          "chinese": "區偉強先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "67",
+      "uniqueId": "ACCOUNTABLE_67",
+      "name": {
+        "english": "LUCENT EDUCATION CENTRE",
+        "chinese": "立賢教育中心"
+      },
+      "address": {
+        "english": "SHOP 7, G/F. FU YAN HOUSE FU SHAN ESTATE",
+        "chinese": "九龍牛池灣富山邨富仁樓地下７號舖"
+      },
+      "schoolId": "612898 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "68",
+      "uniqueId": "ACCOUNTABLE_68",
+      "name": {
+        "english": "MASTERPIECE TUTORIAL CENTRE",
+        "chinese": "卓雅補習中心"
+      },
+      "address": {
+        "english": "UNIT B12 & B13, 1/F SAN PO KONG PLAZA NO 33 SHUNG LING STREET",
+        "chinese": "九龍新蒲崗崇齡街３３號新蒲崗廣場地下１樓Ｂ１２及Ｂ１３室"
+      },
+      "schoolId": "553310 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23249928",
+        "fax": "23249928"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MR CHAN WING KWAN",
+          "chinese": "陳榮坤先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "69",
+      "uniqueId": "ACCOUNTABLE_69",
+      "name": {
+        "english": "MASTERY EDUCATION CENTRE (MIKIKI)",
+        "chinese": "碩士教室（譽港灣）"
+      },
+      "address": {
+        "english": "SHOP 103, 1/F. MIKIKI 638 PRINCE EDWARD ROAD EAST",
+        "chinese": "九龍新蒲崗太子道東６３８號ＭＩＫＩＫＩ１樓１０３號舖"
+      },
+      "schoolId": "615609 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "70",
+      "uniqueId": "ACCOUNTABLE_70",
+      "name": {
+        "english": "MATHCONCEPT LEARNING CTR (DIAMOND HILL)",
+        "chinese": "數學思維教室（鑽石山）"
+      },
+      "address": {
+        "english": "SHOP G108-G109, G/F. PLAZA HOLLYWOOD 3 LUNG POON STREET",
+        "chinese": "九龍黃大仙鑽石山龍蟠街３號荷里活廣場地下Ｇ１０８—Ｇ１０９號舖"
+      },
+      "schoolId": "620459 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "71",
+      "uniqueId": "ACCOUNTABLE_71",
+      "name": {
+        "english": "MATHLETE EDUCATION CENTRE (SAN PO KONG)",
+        "chinese": ""
+      },
+      "address": {
+        "english": "SHOP A33, G/F. SAN PO KONG PLAZA 33 SHUNG LING STREET",
+        "chinese": "九龍新蒲崗崇齡街３３號新蒲崗廣場地下Ａ３３號舖"
+      },
+      "schoolId": "609307 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR LEUNG CHUN KIT",
+          "chinese": "梁俊傑先生"
+        },
+        "head": {
+          "english": "MS MUI MING MAN MILKIE",
+          "chinese": "梅明敏女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "72",
+      "uniqueId": "ACCOUNTABLE_72",
+      "name": {
+        "english": "MERRY GARDEN LEARNING CENTRE",
+        "chinese": "康堤教育中心"
+      },
+      "address": {
+        "english": "SHOP 121, 1/F. LIONS RISE MALL 8 MUK LUN STREET",
+        "chinese": "九龍黃大仙睦鄰街８號現崇山商場１樓１２１號舖"
+      },
+      "schoolId": "617946 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "73",
+      "uniqueId": "ACCOUNTABLE_73",
+      "name": {
+        "english": "MODERN BACHELOR EDU CENTRE (DIAMOND HILL",
+        "chinese": "現代小學士教育中心（鑽石山）"
+      },
+      "address": {
+        "english": "N231-232   2/F NGAN FUNG HOUSE FUNG TAK ESTATE",
+        "chinese": "九龍鑽石山鳳德村銀鳳樓２樓Ｎ２３１－２３２號舖"
+      },
+      "schoolId": "588377 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "31532009",
+        "fax": "30076437"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR NG PING LUN",
+          "chinese": "吳炳倫先生"
+        },
+        "head": {
+          "english": "MR NG PING LUN",
+          "chinese": "吳炳倫先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "74",
+      "uniqueId": "ACCOUNTABLE_74",
+      "name": {
+        "english": "MODERN BACHELOR EDU CTR (CHUK YUEN)",
+        "chinese": "現代小學士教育中心（竹園）"
+      },
+      "address": {
+        "english": "SHOP S217, 2/F. CHUK YUEN PLAZA CHUK YUEN SOUTH ESTATE,15 CHUK YUEN ROAD",
+        "chinese": "九龍黃大仙竹園道１５號竹園南邨竹園廣場２樓Ｓ２１７號舖"
+      },
+      "schoolId": "614130 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "75",
+      "uniqueId": "ACCOUNTABLE_75",
+      "name": {
+        "english": "MODERN BACHELOR EDU CTR (TSZ WAN SHAN)",
+        "chinese": "現代小學士教育中心（慈雲山中心）"
+      },
+      "address": {
+        "english": "SHOP 647-649, 6/F. TSZ WAN SHAN SHOPPING CENTRE TSZ LOK ESTATE, 23 YUK WAH STREET",
+        "chinese": "九龍慈雲山毓華街２３號慈樂邨慈雲山中心６樓６４７—６４９號舖"
+      },
+      "schoolId": "616257 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "76",
+      "uniqueId": "ACCOUNTABLE_76",
+      "name": {
+        "english": "MONKEY TREE ENG LE CENTER (WONG TAI SIN)",
+        "chinese": ""
+      },
+      "address": {
+        "english": "SHOP LG10, LG/F. TEMPLE MALL SOUTH 103 CHING TAK STREET",
+        "chinese": "九龍黃大仙正德街１０３號黃大仙中心南館低層地下ＬＧ１０號舖"
+      },
+      "schoolId": "620475 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "77",
+      "uniqueId": "ACCOUNTABLE_77",
+      "name": {
+        "english": "MONKEY TREE ENG LEARNING CTR (LOK FU)",
+        "chinese": ""
+      },
+      "address": {
+        "english": "SHOP 2124, 2/F. LOK FU PLACE 198 JUNCTION ROAD",
+        "chinese": "九龍橫頭磡聯合道１９８號樂富廣場２樓２１２４號舖"
+      },
+      "schoolId": "616710 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "78",
+      "uniqueId": "ACCOUNTABLE_78",
+      "name": {
+        "english": "MONKEY TREE ENG LEARNING CTR (MIKIKI)",
+        "chinese": ""
+      },
+      "address": {
+        "english": "SHOP 128A, 1/F. MIKIKI 638 PRINCE EDWARD ROAD EAST",
+        "chinese": "九龍新蒲崗太子道東６３８號ＭＩＫＩＫＩ１樓１２８Ａ號舖"
+      },
+      "schoolId": "616141 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "79",
+      "uniqueId": "ACCOUNTABLE_79",
+      "name": {
+        "english": "MONKEY TREE ENG LRN CTR (DIAMOND HILL)",
+        "chinese": ""
+      },
+      "address": {
+        "english": "SHOP G104, G/F. PLAZA HOLLYWOOD, 3 LUNG POON STREET, DIAMOND HILL",
+        "chinese": "九龍黃大仙鑽石山龍蟠街３號荷里活廣場地下Ｇ１０４號舖"
+      },
+      "schoolId": "611719 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "80",
+      "uniqueId": "ACCOUNTABLE_80",
+      "name": {
+        "english": "MONKEY TREE ENGLISH LEARNING CENTER(TWS)",
+        "chinese": ""
+      },
+      "address": {
+        "english": "SHOP 512, 5/F. TSZ WAN SHAN SHOPPING CENTRE TSZ LOK ESTATE, 23 YUK WAH STREET",
+        "chinese": "九龍慈雲山毓華街２３號慈樂邨慈雲山中心５樓５１２號舖"
+      },
+      "schoolId": "618853 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "81",
+      "uniqueId": "ACCOUNTABLE_81",
+      "name": {
+        "english": "MORAL SEED EDU CTR (NGAU CHI WAN)",
+        "chinese": "德苗教育中心（牛池灣）"
+      },
+      "address": {
+        "english": "SHOP 3D, G/F FU SHUN HOUSE FU SHAN ESTATE",
+        "chinese": "九龍牛池灣富山邨富信樓地下３Ｄ號舖"
+      },
+      "schoolId": "600920 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "82",
+      "uniqueId": "ACCOUNTABLE_82",
+      "name": {
+        "english": "MOTIVE POWER EDUCATION CENTRE",
+        "chinese": "全動力教育中心"
+      },
+      "address": {
+        "english": "SHOPS 233 234 & 234A, 2/F FUNG TAK SHOPPING CENTRE FUNG TAK ESTATE",
+        "chinese": "九龍鳳德道１１１號鳳德邨鳳德商場２樓２３３號２３４號及２３４Ａ號舖"
+      },
+      "schoolId": "571792 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23911183",
+        "fax": "23962900"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "83",
+      "uniqueId": "ACCOUNTABLE_83",
+      "name": {
+        "english": "NURTURE EDUCATION CENTRE",
+        "chinese": "潤思教育中心"
+      },
+      "address": {
+        "english": "SHOP NO 13B, LOWER G/F CHE CHEUNG BUILDING 143 PO KONG VILLAGE ROAD",
+        "chinese": "九龍蒲崗村道１４３號慈祥大厦地下低層１３Ｂ號舖"
+      },
+      "schoolId": "585963 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23233006",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "MS LEE YING",
+          "chinese": "李櫻女士"
+        },
+        "head": {
+          "english": "MISS CHOI CHING MAN",
+          "chinese": "蔡靜雯小姐"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "84",
+      "uniqueId": "ACCOUNTABLE_84",
+      "name": {
+        "english": "PLK GRANDMONT EDUCATION SERVICE",
+        "chinese": "保良局錦泰教育服務中心"
+      },
+      "address": {
+        "english": "180   PO KONG VILLAGE ROAD",
+        "chinese": "九龍黃大仙蒲崗村道１８０號"
+      },
+      "schoolId": "578690 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23262886",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "85",
+      "uniqueId": "ACCOUNTABLE_85",
+      "name": {
+        "english": "POPULAR LEARNING CENTRE (LIONS RISE)",
+        "chinese": "大衆教室（現崇山）"
+      },
+      "address": {
+        "english": "SHOP 111, 1/F. LIONS RISE MALL 8 MUK LUN STREET",
+        "chinese": "九龍黃大仙睦鄰街８號現崇山商場１樓１１１號舖"
+      },
+      "schoolId": "622958 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "86",
+      "uniqueId": "ACCOUNTABLE_86",
+      "name": {
+        "english": "POPULAR LEARNING CTR (PLAZA HOLLYWOOD)",
+        "chinese": "大衆教室（荷里活廣場）"
+      },
+      "address": {
+        "english": "SHOPS G113B & G114, G/F. PLAZA HOLLYWOOD, 3 LUNG POON STREET DIAMOND HILL, WONG TAI SIN",
+        "chinese": "九龍黃大仙鑽石山龍蟠街３號荷里活廣場地下Ｇ１１３Ｂ及Ｇ１１４號舖"
+      },
+      "schoolId": "625345 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "PENDING",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "87",
+      "uniqueId": "ACCOUNTABLE_87",
+      "name": {
+        "english": "PROGRESSIVE STAR EDUCATION CENTRE",
+        "chinese": "竣星級小博士教育中心"
+      },
+      "address": {
+        "english": "SHOP 7D, UG/F. WAH LAI HOUSE 1-9 PO YING LANE",
+        "chinese": "九龍黃大仙蒲英里１－９號華麗樓地下高層７Ｄ號舖"
+      },
+      "schoolId": "605751 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "88",
+      "uniqueId": "ACCOUNTABLE_88",
+      "name": {
+        "english": "QUEEN'S INNOVATIVE LRN CTR (KINGSFORD T)",
+        "chinese": "全仁學習中心（嘉峰臺）"
+      },
+      "address": {
+        "english": "SHOP 9-10, PODIUM LEVEL 1 KINGSFORD TERRACE SHOPPING CENTRE 8 KING TUNG STREET",
+        "chinese": "九龍瓊東街８號嘉峰臺商場平台一樓９－１０號舖"
+      },
+      "schoolId": "588636 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "21690331",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "89",
+      "uniqueId": "ACCOUNTABLE_89",
+      "name": {
+        "english": "RAINBOW TUTORIAL CENTRE",
+        "chinese": "彩虹補習中心"
+      },
+      "address": {
+        "english": "SHOP 1, G/F, KAM WAH HOUSE",
+        "chinese": "九龍彩虹邨金華樓地下１號舖"
+      },
+      "schoolId": "552410 / 0002",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23511609",
+        "fax": "23295068"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "90",
+      "uniqueId": "ACCOUNTABLE_90",
+      "name": {
+        "english": "RAINBOW TUTORIAL CENTRE",
+        "chinese": "彩虹補習中心"
+      },
+      "address": {
+        "english": "SHOP A311-A312, 2/F, PAK HUNG HOUSE CHOI WAN (1) ESTATE 45 CLEAR WAY BAY ROAD",
+        "chinese": "九龍牛池灣清水灣道４５號彩雲一邨白虹樓３樓Ａ３１１－Ａ３１２號舖"
+      },
+      "schoolId": "552410 / 0003",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "PENDING",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "91",
+      "uniqueId": "ACCOUNTABLE_91",
+      "name": {
+        "english": "RAINBOW TUTORIAL CENTRE",
+        "chinese": "彩虹補習中心"
+      },
+      "address": {
+        "english": "SHOP A311-A312, 2/F, PAK HUNG HOUSE CHOI WAN (1) ESTATE 45 CLEAR WAY BAY ROAD",
+        "chinese": "九龍牛池灣清水灣道４５號彩雲一邨白虹樓３樓Ａ３１１－Ａ３１２號舖"
+      },
+      "schoolId": "552410 / 0003",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "PENDING",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "92",
+      "uniqueId": "ACCOUNTABLE_92",
+      "name": {
+        "english": "RAINBOW TUTORIAL CENTRE",
+        "chinese": "彩虹補習中心"
+      },
+      "address": {
+        "english": "SHOP A311-A312, 2/F, PAK HUNG HOUSE CHOI WAN (1) ESTATE 45 CLEAR WAY BAY ROAD",
+        "chinese": "九龍牛池灣清水灣道４５號彩雲一邨白虹樓３樓Ａ３１１－Ａ３１２號舖"
+      },
+      "schoolId": "552410 / 0003",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "PENDING",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "93",
+      "uniqueId": "ACCOUNTABLE_93",
+      "name": {
+        "english": "RISING TUTORIAL SCHOOL (TSZ WAN SHAN)",
+        "chinese": "旭日補習學校（慈雲山）"
+      },
+      "address": {
+        "english": "SHOP NO 582 TSZ WAN SHAN SHOPPING CENTRE",
+        "chinese": "九龍慈雲山慈雲山中心５８２號舖"
+      },
+      "schoolId": "579440 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "MS HSU YA YUN",
+          "chinese": "許雅雲女士"
+        },
+        "head": {
+          "english": "MR HUNG WAI KWAN",
+          "chinese": "洪偉群先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "94",
+      "uniqueId": "ACCOUNTABLE_94",
+      "name": {
+        "english": "SANG MAN MAHON EDUCATION CENTRE",
+        "chinese": "成名優譽教育中心"
+      },
+      "address": {
+        "english": "SHOP C12, 2/F SAN PO KONG PLAZA 33 SHUNG LING STREET",
+        "chinese": "九龍新蒲崗崇齡街３３號新蒲崗廣場２樓Ｃ１２舖"
+      },
+      "schoolId": "597473 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "95",
+      "uniqueId": "ACCOUNTABLE_95",
+      "name": {
+        "english": "SELIN METHOD COMPANIONABLE EDU CTR",
+        "chinese": "學林式童行教育中心"
+      },
+      "address": {
+        "english": "SHOP 541-542, G/F., RHYTHM GARDEN 242 CHOI HUNG ROAD",
+        "chinese": "九龍彩虹道２４２號采頤花園５４１–５４２號舖地下"
+      },
+      "schoolId": "562190 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "27004337",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "96",
+      "uniqueId": "ACCOUNTABLE_96",
+      "name": {
+        "english": "SHINING GARDEN TUTORIAL CENTRE",
+        "chinese": "心靈補習中心"
+      },
+      "address": {
+        "english": "SHOP 3, G/F, CHEE LOK BUILDING 1-7 PO TIN LANE",
+        "chinese": "九龍慈雲山蒲田里１－７號慈樂大厦地下３號舖"
+      },
+      "schoolId": "579050 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "27262746",
+        "fax": "23221115"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR CHAN TSZ WAI",
+          "chinese": "陳子偉先生"
+        },
+        "head": {
+          "english": "MR WONG CHI HONG",
+          "chinese": "黃志康先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "97",
+      "uniqueId": "ACCOUNTABLE_97",
+      "name": {
+        "english": "SKY TALENT EDUCATION CENTRE",
+        "chinese": "飛躍精英教育中心"
+      },
+      "address": {
+        "english": "SHOP C09, C13A & C16, 2/F SAN PO KONG PLAZA 33 SHUNG LING STREET",
+        "chinese": "九龍新蒲崗Ｃ１６號舖　崇齡街　３３號新蒲崗廣場２樓Ｃ０９及Ｃ１３Ａ及"
+      },
+      "schoolId": "587095 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23223699",
+        "fax": "23223691"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "98",
+      "uniqueId": "ACCOUNTABLE_98",
+      "name": {
+        "english": "SMART ELITE EDU CTR (WONG TAI SIN)",
+        "chinese": "翰林優譽教育中心（黃大仙）"
+      },
+      "address": {
+        "english": "SHOP 1, LG/F, WAH LAI HOUSE 153 - 155 PO KONG VILLAGE ROAD",
+        "chinese": "九龍慈雲山蒲崗村道１５３－１５５號華麗樓地下１號舖"
+      },
+      "schoolId": "592978 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23283699",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "99",
+      "uniqueId": "ACCOUNTABLE_99",
+      "name": {
+        "english": "SMILING SEED EDU CENTRE (LOK FU PLAZA)",
+        "chinese": "朗苗教育中心（樂富廣場）"
+      },
+      "address": {
+        "english": "SHOP NO 2122, 2/F LOK FU PLAZA",
+        "chinese": "九龍橫頭磡樂富廣場２樓２１２２號舖"
+      },
+      "schoolId": "586200 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23386610",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "100",
+      "uniqueId": "ACCOUNTABLE_100",
+      "name": {
+        "english": "SO-IN GIFTED EDUCATION CENTRE",
+        "chinese": "數研沐恩教育中心"
+      },
+      "address": {
+        "english": "SHOP 101, 1/F., HSIN KUANG CENTRE 120 LUNG CHEUNG ROAD WONG TAI SIN",
+        "chinese": "九龍黃大仙龍翔道１２０號新光中心１樓１０１號舖"
+      },
+      "schoolId": "625434 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "PENDING",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "101",
+      "uniqueId": "ACCOUNTABLE_101",
+      "name": {
+        "english": "STAR LEARNING CENTRE (TEMPLE MALL)",
+        "chinese": ""
+      },
+      "address": {
+        "english": "SHOP NOS. UG11A, UG11B, UG12A UG/F., TEMPLE MALL SOUTH 103 CHING TAK STREET",
+        "chinese": "九龍黃大仙正德街１０３號黃大仙中心南館高層地下ＵＧ１１Ａ、ＵＧ１１Ｂ、ＵＧ１２Ａ號舖"
+      },
+      "schoolId": "618020 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "102",
+      "uniqueId": "ACCOUNTABLE_102",
+      "name": {
+        "english": "STELLAR EDUCATION CENTRE",
+        "chinese": "摘星教育中心"
+      },
+      "address": {
+        "english": "SHOP NO 3, G/F SILVER GARDEN 95 PO KONG VILLAGE ROAD",
+        "chinese": "九龍蒲崗村道９５號秀芳花園地下３號舖"
+      },
+      "schoolId": "579980 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23252733",
+        "fax": "23252763"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR WU CHUNG MING",
+          "chinese": "胡仲銘先生"
+        },
+        "head": {
+          "english": "MR WU CHUNG MING",
+          "chinese": "胡仲銘先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "103",
+      "uniqueId": "ACCOUNTABLE_103",
+      "name": {
+        "english": "STUDENT GUIDE (TSZ CHING) EDU CENTRE",
+        "chinese": "導思（慈正）教育中心"
+      },
+      "address": {
+        "english": "SHOP NO 4, G/F TSZ CHING SHOPPING CENTRE (PHASE 1) TSZ CHING ESTATE",
+        "chinese": "九龍黃大仙慈正邨慈正商場（一期）地下４號舖"
+      },
+      "schoolId": "578452 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23238836",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "104",
+      "uniqueId": "ACCOUNTABLE_104",
+      "name": {
+        "english": "SZE NGA TUTORIAL CENTRE (SAN PO KONG)",
+        "chinese": "詩雅補習中心（新蒲崗）"
+      },
+      "address": {
+        "english": "SHOP B63A, 1/F SHOPPING ARCADE, SAN PO KONG PLAZA 33 SHUNG LING STREET",
+        "chinese": "九龍新蒲崗崇齡街３３號新蒲崗廣場１樓Ｂ６３Ａ號舖"
+      },
+      "schoolId": "599441 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR MA CHUN KWONG JOHNNY",
+          "chinese": "馬振光先生"
+        },
+        "head": {
+          "english": "MR MA CHUN KWONG JOHNNY",
+          "chinese": "馬振光先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "105",
+      "uniqueId": "ACCOUNTABLE_105",
+      "name": {
+        "english": "SZE NGA TUTORIAL CTR (DAY SCH)",
+        "chinese": "詩雅補習中心（日校）"
+      },
+      "address": {
+        "english": "G/F, NO.11 KAM WING STREET",
+        "chinese": "九龍新蒲崗錦榮街１１號地下"
+      },
+      "schoolId": "541575 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23208092",
+        "fax": "23208092"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR MA CHUN KWONG JOHNNY",
+          "chinese": "馬振光先生"
+        },
+        "head": {
+          "english": "MR MA CHUN KWONG JOHNNY",
+          "chinese": "馬振光先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "106",
+      "uniqueId": "ACCOUNTABLE_106",
+      "name": {
+        "english": "SZE NGA TUTORIAL CTR (EV SCH)",
+        "chinese": "詩雅補習中心（夜校）"
+      },
+      "address": {
+        "english": "G/F, NO.11 KAM WING STREET",
+        "chinese": "九龍新蒲崗錦榮街１１號地下"
+      },
+      "schoolId": "541583 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23208092",
+        "fax": "23208092"
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR MA CHUN KWONG JOHNNY",
+          "chinese": "馬振光先生"
+        },
+        "head": {
+          "english": "MR MA CHUN KWONG JOHNNY",
+          "chinese": "馬振光先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "107",
+      "uniqueId": "ACCOUNTABLE_107",
+      "name": {
+        "english": "TED EDUCATION CENTER",
+        "chinese": "德學社教育中心"
+      },
+      "address": {
+        "english": "SHOP F2 F3 & F4, G/F GRAND VIEW GARDEN, 185 HAMMER HILL ROAD",
+        "chinese": "九龍斧山道１８５號宏景花園商場地下Ｆ２　Ｆ３及Ｆ４號舖"
+      },
+      "schoolId": "582255 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23221755",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "MR CHENG KA HO",
+          "chinese": "鄭嘉豪先生"
+        },
+        "head": {
+          "english": "MR CHENG KA HO",
+          "chinese": "鄭嘉豪先生"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "108",
+      "uniqueId": "ACCOUNTABLE_108",
+      "name": {
+        "english": "THE BLUE BIRD EDUCATION CENTRE",
+        "chinese": "青鳥教育中心"
+      },
+      "address": {
+        "english": "SHOP NO. 7 ON L/G., CHE CHEUNG BUILDING 135A PO KONG VILLAGE ROAD",
+        "chinese": "九龍慈雲山蒲崗村道１３５Ａ慈祥大廈地庫７號舖"
+      },
+      "schoolId": "571440 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23219969",
+        "fax": "23219969"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "109",
+      "uniqueId": "ACCOUNTABLE_109",
+      "name": {
+        "english": "THE CRADLE EDUCATION CENTRE",
+        "chinese": "百舸源教育中心"
+      },
+      "address": {
+        "english": "SHOP 8, G/F. FUNG WONG BUILDING 2-16 MING FUNG STREET",
+        "chinese": "九龍黃大仙鳴鳳街２－１６號鳳凰大樓地下８號舖"
+      },
+      "schoolId": "604232 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "MS LAM WING YEE JOEY",
+          "chinese": "林詠儀女士"
+        },
+        "head": {
+          "english": "MS TSUI CHING MAN",
+          "chinese": "徐正敏女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "110",
+      "uniqueId": "ACCOUNTABLE_110",
+      "name": {
+        "english": "THE JOY SCHOOLING GREEN EDUCATION CENTRE",
+        "chinese": "樂學教育青苗教室"
+      },
+      "address": {
+        "english": "SHOP C06, 2/F SAN PO KONG PLAZA 33 SHUNG LING STREET",
+        "chinese": "九龍新蒲崗崇齡街３３號新蒲崗廣場２樓Ｃ０６號舖"
+      },
+      "schoolId": "585815 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23232093",
+        "fax": "23230112"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "111",
+      "uniqueId": "ACCOUNTABLE_111",
+      "name": {
+        "english": "TIARA EDUCATION CENTRE",
+        "chinese": "信雅教育中心"
+      },
+      "address": {
+        "english": "SHOP 640, 6/F. TSZ WAN SHAN SHOPPING CENTRE TSZ LOK ESTATE, 23 YUK WAH STREET",
+        "chinese": "九龍慈雲山毓華街２３號慈樂邨慈雲山中心６樓６４０號舖"
+      },
+      "schoolId": "623083 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "112",
+      "uniqueId": "ACCOUNTABLE_112",
+      "name": {
+        "english": "TIN MA EDUCATION CENTRE (LOK FU)",
+        "chinese": "天馬教育中心（樂富）"
+      },
+      "address": {
+        "english": "SHOP F17, G/F. LUEN HOP BUILDING NOS. 152-180 JUNCTION ROAD",
+        "chinese": "九龍聯合道１５２—１８０號聯合大樓地下Ｆ１７號舖"
+      },
+      "schoolId": "626473 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "PENDING",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "113",
+      "uniqueId": "ACCOUNTABLE_113",
+      "name": {
+        "english": "TOP'S EDUCATIONAL CENTRE",
+        "chinese": "拓思教育中心"
+      },
+      "address": {
+        "english": "2/F",
+        "chinese": "九龍新蒲崗越秀廣場２０９舖２樓"
+      },
+      "schoolId": "538400 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "23222449",
+        "fax": "35763597"
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "MS LI LAI FONG",
+          "chinese": "李麗芳女士"
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "114",
+      "uniqueId": "ACCOUNTABLE_114",
+      "name": {
+        "english": "UPPER HILL EDUCATION CENTRE",
+        "chinese": "進研星級教育中心"
+      },
+      "address": {
+        "english": "FLAT 4, G/F. CHEONG TAI BUILDING 89 KING FUK STREET",
+        "chinese": "九龍新蒲崗景福街８９號昌泰大廈地下４號舖"
+      },
+      "schoolId": "602310 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "115",
+      "uniqueId": "ACCOUNTABLE_115",
+      "name": {
+        "english": "WELLSPRING EDU CTR (SAN PO KONG)",
+        "chinese": "研理教育中心（新蒲崗）"
+      },
+      "address": {
+        "english": "SHOP C41, 2/F. SAN PO KONG PLAZA 33 SHUNG LING STREET",
+        "chinese": "九龍新蒲崗崇齡街３３號新蒲崗廣場２樓Ｃ４１號舖"
+      },
+      "schoolId": "602051 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    },
+    {
+      "number": "116",
+      "uniqueId": "ACCOUNTABLE_116",
+      "name": {
+        "english": "WELLSPRING EDUCATION CENTRE",
+        "chinese": "研理教育中心"
+      },
+      "address": {
+        "english": "UNIT B42, 1/F & UNIT C02, 2/F SAN PO KONG PLAZA 33 SHUNG LING STREET",
+        "chinese": "九龍新蒲崗崇齡街３３號Ｃ０２號舖新蒲崗廣場１樓Ｂ４２及２樓"
+      },
+      "schoolId": "578940 / 0001",
+      "schoolTypeCode": "OTH",
+      "contact": {
+        "telephone": "21161765",
+        "fax": ""
+      },
+      "management": {
+        "supervisor": {
+          "english": "",
+          "chinese": ""
+        },
+        "head": {
+          "english": "",
+          "chinese": ""
+        }
+      },
+      "session": [
+        "WD"
+      ],
+      "gender": "CO-ED",
+      "website": ""
+    }
+  ]
+}
